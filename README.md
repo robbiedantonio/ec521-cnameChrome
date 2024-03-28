@@ -1,2 +1,2 @@
 # ec521-cnameChrome
-Final project for BU EC521 - Cybersecurity
+Group 4 final project for BU EC521 - Cybersecurity

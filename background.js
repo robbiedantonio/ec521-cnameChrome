@@ -31,6 +31,8 @@ function checkCookieFlags() {
     chrome.cookies.getAll({}, function(cookies) {
       const cookiesWithoutHttpOnly = cookies.filter(cookie => !cookie.httpOnly);
       const cookiesWithoutSecure = cookies.filter(cookie => !cookie.secure);
+
+      // 4 patrick --> domain check
   
       // Log the cookies that don't have httpOnly set
       console.log("Cookies without httpOnly set:", cookiesWithoutHttpOnly);

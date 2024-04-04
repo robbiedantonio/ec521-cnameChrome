@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Cookie Tracker",
+    "version": "1.0",
+    "description": "Tracks and stores cookies to monitor where they are being sent.",
+    "permissions": ["cookies", "storage"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+      }
+    },
+    "icons": {
+    }
+  }
+  

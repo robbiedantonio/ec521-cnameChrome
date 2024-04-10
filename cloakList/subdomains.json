@@ -1,318 +1,691 @@
 {
-  "learnabout": [
-    "learnabout.insideview.com"
+  "sadobeanalytics": [
+    "sadobeanalytics.geico.com"
   ],
-  "more": [
-    "more.socialflow.com",
-    "more.blueconic.com"
+  "membership": [
+    "membership.mortonarb.org"
   ],
-  "bcd": [
-    "bcd.esprit.fi"
-  ],
-  "outreach": [
-    "outreach.crossref.org"
-  ],
-  "audev": [
-    "audev.zeit.de"
-  ],
-  "omniture": [
-    "omniture.dupontregistry.com",
-    "omniture.kennametal.com"
-  ],
-  "rpt": [
-    "rpt.final-score.com"
-  ],
-  "sawap": [
-    "sawap.equifax.com"
+  "t9h2": [
+    "t9h2.ricardocuisine.com"
   ],
   "swebreports": [
     "swebreports.nature.org"
-  ],
-  "scs": [
-    "scs.arcteryx.com"
-  ],
-  "s": [
-    "s.metrics.popularwoodworking.com",
-    "s.metrics.writersdigest.com",
-    "s.thestar.com",
-    "s.lenovo.com",
-    "s.metric.vodacom.co.za",
-    "s.blinds.com",
-    "s.rosettastone.eu",
-    "s.metrics.interweave.com"
-  ],
-  "hw": [
-    "hw.hostway.com"
-  ],
-  "act-on": [
-    "act-on.snb.com"
-  ],
-  "go": [
-    "go.marfeel.com",
-    "go.loveshaw.com",
-    "go.mitchell1.com",
-    "go.newgensoft.com",
-    "go.infopulse.com",
-    "go.springbot.com",
-    "go.plot.ly",
-    "go.geoedge.com",
-    "go.quore.com",
-    "go.erecruiter.pl",
-    "go.shippingeasy.com",
-    "go.advertise.com",
-    "go.jabil.com",
-    "go.nexcess.net",
-    "go.econsultancy.com",
-    "go.nextiva.com",
-    "go.pageuppeople.com",
-    "go.smartinsights.com",
-    "go.kanopy.com",
-    "go.truckstop.com",
-    "go.kabbage.com",
-    "go.jinjibu.jp",
-    "go.1sbc.com",
-    "go.adomik.com",
-    "go.ashita-team.com",
-    "go.adventure-life.com",
-    "go.demandforce.com",
-    "go.accesso.com",
-    "go.dignitymemorial.com",
-    "go.smaato.com",
-    "go.neverware.com",
-    "go.daijob.com",
-    "go.webhose.io",
-    "go.updates.iata.org",
-    "go.esri.com",
-    "go.gengo.com",
-    "go.assurx.com",
-    "go.toriaez.jp",
-    "go.video-b.com",
-    "go.liveu.tv",
-    "go.imotions.com",
-    "go.massmutual.com",
-    "go.cboe.com",
-    "go.gett.com",
-    "go.adjust.com",
-    "go.bus.com",
-    "go.getbento.com",
-    "go.happyfox.com",
-    "go.skuvault.com",
-    "go.yamatonoodle.com",
-    "go.ebis.ne.jp",
-    "go.eigyoh.com",
-    "go.ibjapan.com",
-    "go.propublica.org",
-    "go.njit.edu",
-    "go.urkund.com",
-    "go.spscommerce.com",
-    "go.monotaro.com",
-    "go.sourcescrub.com",
-    "go.ripstech.com",
-    "go.hldc.co.jp",
-    "go.leggenda.co.jp",
-    "go.line.jp.net",
-    "go.bostonprivate.com",
-    "go.powerdigitalmarketing.com",
-    "go.freedomhouse.org",
-    "go.clearcapital.com",
-    "go.sekatsuna.com",
-    "go.financialengines.com",
-    "go.sinalite.com",
-    "go.pixela.co.jp",
-    "go.moneris.com",
-    "go.chatplus.jp",
-    "go.globis.ac.jp",
-    "go.corehr.com",
-    "go.bebit.co.jp",
-    "go.whitecross.co.jp",
-    "go.justworks.com",
-    "go.linuxacademy.com",
-    "go.trendhunter.com",
-    "go.autoalert.com",
-    "go.boostability.com",
-    "go.ayudante.jp",
-    "go.securite.jp",
-    "go.stworld.jp",
-    "go.getconvey.com",
-    "go.bigteams.com",
-    "go.biltapp.com",
-    "go.tyntec.com",
-    "go.hiacode.com",
-    "go.learnosity.com",
-    "go.thinknum.com",
-    "go.minolusa.com",
-    "go.globalscape.com",
-    "go.safe.com",
-    "go.nayax.com",
-    "go.singular.net",
-    "go.magesolution.com",
-    "go.mbs.com.vn",
-    "go.3qdigital.com",
-    "go.fingercheck.com",
-    "go.gmercyu.edu",
-    "go.rightatschool.com",
-    "go.atinternet.com",
-    "go.zeromotorcycles.com",
-    "go.jeanhailes.org.au",
-    "go.serversaustralia.com.au",
-    "go.upside.com",
-    "go.connect4education.com",
-    "go.customerlobby.com",
-    "go.datron.com",
-    "go.healthsavings.com",
-    "go.icpcnj.org",
-    "go.brennancenter.org",
-    "go.chanzuckerberg.com",
-    "go.harveybp.com",
-    "go.gensteel.com",
-    "go.jaggaer.com",
-    "go.examity.com",
-    "go.sodexo.com",
-    "go.control4.com",
-    "go.dynarex.com",
-    "go.cambiumnetworks.com",
-    "go.tradingtechnologies.com",
-    "go.nexford.org",
-    "go.milestoneinternet.com",
-    "go.canpango.com",
-    "go.cb4.com",
-    "go.chartlogic.com",
-    "go.nmi.com",
-    "go.rebag.com",
-    "go.expertise.com",
-    "go.americannursetoday.com",
-    "go.temenos.com",
-    "go.taylorandfrancis.com",
-    "go.maropost.com",
-    "go.masterbrand.com",
-    "go.insightsoftware.com",
-    "go.boomtownroi.com",
-    "go.themisbar.com",
-    "go.accella.net",
-    "go.mymajors.com",
-    "go.netigate.net",
-    "go.coresight.com",
-    "go.beeswax.com",
-    "go.illuminateed.com",
-    "go.imodules.com",
-    "go.islandwood.org",
-    "go.guidewellconnect.com",
-    "go.heartlandpaymentsystems.com",
-    "go.pork.org",
-    "go.rainn.org",
-    "go.realmassive.com",
-    "go.ccalliance.org",
-    "go.enverus.com",
-    "go.aircall.io",
-    "go.jlg.com",
-    "go.americanlaboratorytrading.com",
-    "go.rocktechnology.sandvik",
-    "go.lightedge.com",
-    "go.worldbook.com",
-    "go.noviflow.com",
-    "go.pricer.com",
-    "go.fivetran.com",
-    "go.stefanini.com",
-    "go.quocard.com",
-    "go.kepleranalytics.com",
-    "go.techwave.net",
-    "go.broadly.com",
-    "go.tadashishoji.com",
-    "go.tnsglobal.com",
-    "go.tripplite.com",
-    "go.usp.org",
-    "go.vlocity.com",
-    "go.alliedtelesis.com",
-    "go.sulzer.com",
-    "go.raconteur.net",
-    "go.forcemedia.co.jp",
-    "go.idealistconsulting.com",
-    "go.homestars.com",
-    "go.drillinginfo.com",
-    "go.cloudcall.com",
-    "go.gmsliveexpert.com",
-    "go.signals-analytics.com",
-    "go.intelex.com",
-    "go.ixiasoft.com",
-    "go.diodes.com",
-    "go.neb.com",
-    "go.oncolens.com",
-    "go.ansolutions.com",
-    "go.getsidecar.com",
-    "go.phs.co.uk",
-    "go.best-teacher-inc.com",
-    "go.ecommercefulfilment.com",
-    "go.softwebsolutions.com",
-    "go.cheetahdigital.com",
-    "go.coherent.com",
-    "go.kognity.com",
-    "go.metacompliance.com",
-    "go.precor.com",
-    "go.qudini.com",
-    "go.questevents.com.au",
-    "go.rauantiques.com",
-    "go.optimahcs.com",
-    "go.thomasjameshomesusa.com",
-    "go.visaplace.com",
-    "go.ilpa.org",
-    "go.adeccousa.com",
-    "go.akacrm.com",
-    "go.sinch.com",
-    "go.adinstruments.com",
-    "go.anaqua.com",
-    "go.cravo.com",
-    "go.oracle.com"
   ],
   "fpc": [
     "fpc.sage.com",
     "fpc.pelican.com",
     "fpc.sigsauer.com"
   ],
-  "sa": [
-    "sa.tactics.com"
+  "start": [
+    "start.ecornell.com"
   ],
-  "stms": [
-    "stms.53.com"
+  "sminerva": [
+    "sminerva.healthcentral.com"
+  ],
+  "audev": [
+    "audev.zeit.de"
+  ],
+  "mktg": [
+    "mktg.lightspeed.com",
+    "mktg.schlage.com",
+    "mktg.registria.com"
+  ],
+  "metrics1": [
+    "metrics1.citi.com"
+  ],
+  "scnd": [
+    "scnd.landsend.co.uk",
+    "scnd.landsend.com",
+    "scnd.landsend.co.jp"
+  ],
+  "waaf1": [
+    "waaf1.alditalk.de",
+    "waaf1.aldifotos.de"
+  ],
+  "wt": [
+    "wt.ara.cat"
+  ],
+  "saa": [
+    "saa.tallink.com",
+    "saa.irvinecompanyapartments.com",
+    "saa.irvinecompanyoffice.com"
+  ],
+  "tr": [
+    "tr.computeruniverse.net"
+  ],
+  "agency": [
+    "agency.reportgarden.com"
+  ],
+  "smy": [
+    "smy.iheart.com"
+  ],
+  "vry9": [
+    "vry9.destinia.com"
+  ],
+  "live": [
+    "live.aap.com.au"
+  ],
+  "s-adobe": [
+    "s-adobe.wacoal.jp"
+  ],
+  "deut1": [
+    "deut1.fdj.fr"
+  ],
+  "smatrix": [
+    "smatrix.hbo.com"
+  ],
+  "gkz4": [
+    "gkz4.pepephone.com"
+  ],
+  "content": [
+    "content.formstack.com",
+    "content.propertyfinder.ae",
+    "content.getpatch.com",
+    "content.lansweeper.com",
+    "content.fico.com",
+    "content.quark.com",
+    "content.loyalistcollege.com"
+  ],
+  "tracker": [
+    "tracker.engage.tomtom.com",
+    "tracker.providence.org"
+  ],
+  "mis": [
+    "mis.mtl.org"
+  ],
+  "purpose": [
+    "purpose.fressnapf.de"
   ],
   "tsa": [
     "tsa.taxslayer.com"
   ],
-  "hs": [
-    "hs.healthstream.com"
+  "oms": [
+    "oms.hotels.cn",
+    "oms.goarmy.com",
+    "oms.symantec.com",
+    "oms.norton.com",
+    "oms.hotels.com",
+    "oms.expedia.com",
+    "oms.neimanmarcus.com",
+    "oms.rogersmedia.com"
   ],
-  "minerva": [
-    "minerva.healthcommunities.com"
+  "sdc2": [
+    "sdc2.credit-suisse.com"
   ],
-  "om-ssl": [
-    "om-ssl.consorsbank.de"
+  "more": [
+    "more.socialflow.com",
+    "more.blueconic.com"
   ],
-  "okr": [
-    "okr.resily.com"
+  "ans": [
+    "ans.sny.tv",
+    "ans.mlb.com",
+    "ans.milb.com"
+  ],
+  "t": [
+    "t.nordea.fi",
+    "t.nordea.dk",
+    "t.nordea.se",
+    "t.nordea.no",
+    "t.spod.com",
+    "t.wiz.meilleurtaux.com"
+  ],
+  "seniorliving": [
+    "seniorliving.kingswoodretirementliving.com",
+    "seniorliving.maryswoods.org"
   ],
   "a1": [
     "a1.api.bbc.co.uk"
   ],
-  "pix": [
-    "pix.telekom.de"
+  "res": [
+    "res.programme-television.org"
   ],
-  "sadbmetrics": [
-    "sadbmetrics.laverdad.es",
-    "sadbmetrics.elcomercio.es",
-    "sadbmetrics.hoy.es",
-    "sadbmetrics.lavozdigital.es",
-    "sadbmetrics.abc.es",
-    "sadbmetrics.diariovasco.com",
-    "sadbmetrics.eldiariomontanes.es",
-    "sadbmetrics.zendalibros.com",
-    "sadbmetrics.mujerhoy.com",
-    "sadbmetrics.lasprovincias.es",
-    "sadbmetrics.ideal.es",
-    "sadbmetrics.diariosur.es",
-    "sadbmetrics.granadablogs.com",
-    "sadbmetrics.elnortedecastilla.es",
-    "sadbmetrics.psicoactiva.com",
-    "sadbmetrics.elcorreo.com",
-    "sadbmetrics.pisos.com"
+  "link": [
+    "link.ferret-plus.com",
+    "link.mediabistro.com"
+  ],
+  "sub1": [
+    "sub1.cosmosdirekt.de"
+  ],
+  "data": [
+    "data.engelhorn.de",
+    "data.inbank.it",
+    "data.sparkasse.at",
+    "data.pepephone.com",
+    "data.goertz.de"
+  ],
+  "secureanalytics": [
+    "secureanalytics.avis.co.uk",
+    "secureanalytics.avis.se"
+  ],
+  "omniture-ssl": [
+    "omniture-ssl.walmart.ca",
+    "omniture-ssl.walmart.com"
+  ],
+  "securetags": [
+    "securetags.esri.com"
+  ],
+  "easy": [
+    "easy.surepayroll.com"
+  ],
+  "experience": [
+    "experience.asb.co.nz"
+  ],
+  "iiot": [
+    "iiot.linx.jp"
+  ],
+  "hkj8": [
+    "hkj8.evobanco.com"
+  ],
+  "sales": [
+    "sales.disneylandparis.com"
+  ],
+  "nsmetrics": [
+    "nsmetrics.ni.com"
+  ],
+  "build": [
+    "build.usgbc.org"
+  ],
+  "b": [
+    "b.fox.com",
+    "b.koodomobile.com",
+    "b.law.com",
+    "b.telus.com",
+    "b.snow.com",
+    "b.medtronic.com"
+  ],
+  "hs": [
+    "hs.healthstream.com"
+  ],
+  "www6": [
+    "www6.gemalto.com"
+  ],
+  "stereos2s": [
+    "stereos2s.crutchfield.com"
+  ],
+  "dtmssl": [
+    "dtmssl.bobcat.com"
+  ],
+  "ts": [
+    "ts.popsugar.com"
+  ],
+  "omniture": [
+    "omniture.dupontregistry.com",
+    "omniture.kennametal.com"
+  ],
+  "analytics": [
+    "analytics.nordea.fi",
+    "analytics.ubs.com",
+    "analytics.navyfederal.org",
+    "analytics.nordea.com",
+    "analytics.nordea.dk",
+    "analytics.nordea.se",
+    "analytics.pnc.com",
+    "analytics.cibc.com",
+    "analytics.nordea.no",
+    "analytics.ae.com",
+    "analytics.tcm.com",
+    "analytics.capitalgroup.com",
+    "analytics.simplyhealth.co.uk",
+    "analytics.myhermes.de"
+  ],
+  "eulerian": [
+    "eulerian.brandalley.fr"
+  ],
+  "commercial": [
+    "commercial.davey.com"
+  ],
+  "startrekk": [
+    "startrekk.flaconi.de"
+  ],
+  "news": [
+    "news.clipcanvas.com",
+    "news.neworleanscitybusiness.com"
+  ],
+  "sslstats": [
+    "sslstats.canadapost.ca",
+    "sslstats.healthydirections.com"
+  ],
+  "smetc": [
+    "smetc.banfield.com"
+  ],
+  "sw88": [
+    "sw88.go.com",
+    "sw88.go.com",
+    "sw88.disney.ru",
+    "sw88.espn.com",
+    "sw88.disney.co.jp",
+    "sw88.disneynow.com",
+    "sw88.go.com",
+    "sw88.starwars.ru",
+    "sw88.disneyrewards.com"
+  ],
+  "emails": [
+    "emails.jarviscole.com",
+    "emails.powerobjects.com",
+    "emails.amzetta.com",
+    "emails.emids.com"
+  ],
+  "communications": [
+    "communications.globalwidemedia.com",
+    "communications.lydallpm.com"
+  ],
+  "empa": [
+    "empa.flixbus.de"
+  ],
+  "stats": [
+    "stats.premiumsim.de",
+    "stats.tou.tv",
+    "stats.winsim.de",
+    "stats.adultswim.com",
+    "stats.handyvertrag.de",
+    "stats.radio-canada.ca",
+    "stats.agl.com.au",
+    "stats.rcinet.ca",
+    "stats.mint.ca"
+  ],
+  "k": [
+    "k.rueducommerce.fr",
+    "k.terdav.com"
+  ],
+  "mdws": [
+    "mdws.vancity.com",
+    "mdws.assiniboine.mb.ca",
+    "mdws.coastalfinancial.ca",
+    "mdws.comtechfirecu.com",
+    "mdws.penfinancial.com",
+    "mdws.wscu.com"
+  ],
+  "resources": [
+    "resources.davey.com",
+    "resources.infostretch.com"
+  ],
+  "ssl-metrics": [
+    "ssl-metrics.tim.it"
+  ],
+  "pub": [
+    "pub.vendasta.com"
+  ],
+  "f7ds": [
+    "f7ds.liberation.fr"
+  ],
+  "www5": [
+    "www5.untangle.com",
+    "www5.gep.com"
+  ],
+  "sig": [
+    "sig.ig.com",
+    "sig.nadex.com"
+  ],
+  "www3s": [
+    "www3s.ing.be"
+  ],
+  "elqtracking": [
+    "elqtracking.macegroup.com"
+  ],
+  "gi7a": [
+    "gi7a.structube.com"
+  ],
+  "digital": [
+    "digital.adtaxi.com"
+  ],
+  "nrg": [
+    "nrg.red-by-sfr.fr"
+  ],
+  "bcd": [
+    "bcd.esprit.fi"
+  ],
+  "swebmetrics": [
+    "swebmetrics.zebra.com"
+  ],
+  "industry": [
+    "industry.promo.skf.com"
+  ],
+  "aff": [
+    "aff.scalahosting.com"
+  ],
+  "act-on": [
+    "act-on.snb.com"
+  ],
+  "metric": [
+    "metric.tsite.jp",
+    "metric.changiairport.com"
+  ],
+  "image": [
+    "image.ard.de"
+  ],
+  "seahorseinfo": [
+    "seahorseinfo.agilent.com"
+  ],
+  "sdc": [
+    "sdc.allianz.de"
+  ],
+  "as": [
+    "as.bild.de",
+    "as.rollingstone.de",
+    "as.travelbook.de",
+    "as.stylebook.de",
+    "as.welt.de",
+    "as.techbook.de"
+  ],
+  "sstats": [
+    "sstats.vanityfair.com",
+    "sstats.hostelworld.com",
+    "sstats.epicurious.com",
+    "sstats.deloitte.com",
+    "sstats.tdameritrade.com",
+    "sstats.tiffany.com",
+    "sstats.bookingbuddy.com",
+    "sstats.airfarewatchdog.com",
+    "sstats.mistergooddeal.com",
+    "sstats.americafirst.com",
+    "sstats.wired.com",
+    "sstats.tiffany.co.uk",
+    "sstats.investors.com",
+    "sstats.adobe.com",
+    "sstats.self.com",
+    "sstats.bbt.com",
+    "sstats.backcountry.com",
+    "sstats.raffles.com",
+    "sstats.kroger.com",
+    "sstats.o2tv.cz",
+    "sstats.mora-qualitas.com",
+    "sstats.harlequin.com",
+    "sstats.bonappetit.com",
+    "sstats.harrods.com",
+    "sstats.bitdefender.com",
+    "sstats.fairmont.com",
+    "sstats.steepandcheap.com",
+    "sstats.tiffany.ca",
+    "sstats.swissotel.com",
+    "sstats.www.o2.cz",
+    "sstats.pitchfork.com",
+    "sstats.newyorker.com",
+    "sstats.golfdigest.com",
+    "sstats.hostelbookers.com",
+    "sstats.tiffany.it",
+    "sstats.motosport.com",
+    "sstats.oyster.com",
+    "sstats.alfa.com",
+    "sstats.nationwidechildrens.org",
+    "sstats.fishersci.com",
+    "sstats.whattopack.com",
+    "sstats.familyvacationcritic.com",
+    "sstats.competitivecyclist.com",
+    "sstats.build.com",
+    "sstats.mt.com",
+    "sstats.csa.cz",
+    "sstats.faucet.com"
+  ],
+  "site": [
+    "site.instamed.com",
+    "site.emarketer.com"
+  ],
+  "christians": [
+    "christians.lifeway.com"
+  ],
+  "starget": [
+    "starget.intel.com.br",
+    "starget.intel.com",
+    "starget.intel.cn",
+    "starget.intel.it",
+    "starget.intel.la",
+    "starget.intel.de",
+    "starget.intel.com.tr",
+    "starget.intel.ru",
+    "starget.intel.com.tw"
+  ],
+  "tdf1": [
+    "tdf1.easyviajar.com",
+    "tdf1.easyvoyage.co.uk",
+    "tdf1.easyvoyage.de"
+  ],
+  "ww8": [
+    "ww8.kohls.com"
+  ],
+  "stats-ssl": [
+    "stats-ssl.mdanderson.org"
+  ],
+  "execution-ci360": [
+    "execution-ci360.worldwildlife.org",
+    "execution-ci360.stoloto.ru",
+    "execution-ci360.frankfurt-airport.com",
+    "execution-ci360.paulfredrick.com",
+    "execution-ci360.nature.org"
+  ],
+  "somt": [
+    "somt.honda.com"
+  ],
+  "insights": [
+    "insights.ocorian.com"
+  ],
+  "marketing": [
+    "marketing.konecranes.com",
+    "marketing.triplelift.com",
+    "marketing.nativo.com",
+    "marketing.deepcrawl.com",
+    "marketing.clickatell.com",
+    "marketing.findyourinfluence.com",
+    "marketing.njoyn.com",
+    "marketing.cisco-eagle.com",
+    "marketing.visitgreaterpalmsprings.com",
+    "marketing.visitparkcity.com",
+    "marketing.visitsaltlake.com",
+    "marketing.digitalcurrent.com",
+    "marketing.smartvault.com",
+    "marketing.astm.org",
+    "marketing.datawatchsystems.com",
+    "marketing.cesco.com",
+    "marketing.fluentco.com",
+    "marketing.bswift.com",
+    "marketing.travelmarketreport.com",
+    "marketing.starmicronics.com",
+    "marketing.business-sweden.se",
+    "marketing.rakutensl.com",
+    "marketing.parkmycloud.com",
+    "marketing.thisiscleveland.com",
+    "marketing.riogrande.com",
+    "marketing.absoluteexhibits.com",
+    "marketing.microlise.com",
+    "marketing.visitcalgary.com",
+    "marketing.translations.com",
+    "marketing.enhancedvision.com",
+    "marketing.soscanhelp.com",
+    "marketing.syntax.com",
+    "marketing.homedna.com",
+    "marketing.kiran.com",
+    "marketing.labdepotinc.com",
+    "marketing.act-on.usw.edu",
+    "marketing.adventuresmithexplorations.com",
+    "marketing.avoxi.com",
+    "marketing.atinternet.com",
+    "marketing.taskus.com",
+    "marketing.doctorlogic.com",
+    "marketing.peoplehr.com",
+    "marketing.marlabs.com",
+    "marketing.net.kredito24.es",
+    "marketing.net.zooroyal.de",
+    "marketing.net.zalando-lounge.nl",
+    "marketing.net.zalando-prive.it",
+    "marketing.net.home24.de",
+    "marketing.net.fidor.de",
+    "marketing.net.zalando-lounge.de",
+    "marketing.net.home24.at",
+    "marketing.seatadvisor.com"
+  ],
+  "cj": [
+    "cj.madeleine.de"
+  ],
+  "webstats": [
+    "webstats.garanti.com.tr",
+    "webstats.channel4.com",
+    "webstats.americanbar.org"
+  ],
+  "www-stats-so": [
+    "www-stats-so.f-secure.com"
+  ],
+  "eultech": [
+    "eultech.fnac.com"
+  ],
+  "omniture443": [
+    "omniture443.partycity.com"
+  ],
+  "service": [
+    "service.e-recht24.de"
+  ],
+  "ct5m": [
+    "ct5m.citadium.com"
+  ],
+  "www2": [
+    "www2.matterport.com",
+    "www2.gembaacademy.com",
+    "www2.trl.co.uk",
+    "www2.mofo.com",
+    "www2.voxco.com",
+    "www2.universumglobal.com",
+    "www2.joyce-meyer.de",
+    "www2.salesloft.com",
+    "www2.infosecinstitute.com",
+    "www2.emeritus.org",
+    "www2.lanches.co.jp",
+    "www2.monstar-lab.com",
+    "www2.powerweb.co.jp",
+    "www2.ezlinksgolf.com",
+    "www2.clmbs.jp",
+    "www2.comdesign.co.jp",
+    "www2.estanalytical.com",
+    "www2.gourmetads.com",
+    "www2.future-shop.jp",
+    "www2.lumapps.com",
+    "www2.ep.com",
+    "www2.sftravel.com",
+    "www2.taroworks.org",
+    "www2.reveelgroup.com",
+    "www2.deltaprivatejets.com",
+    "www2.mega.com",
+    "www2.licetroopers.com",
+    "www2.shellblack.com",
+    "www2.realestatewebmasters.com",
+    "www2.emi-rs.com",
+    "www2.europe.ryder.com",
+    "www2.fond.co",
+    "www2.bentoforbusiness.com",
+    "www2.ezyeducation.co.uk",
+    "www2.ideal.com",
+    "www2.fitspotwellness.com",
+    "www2.centro.net",
+    "www2.dakotasoft.com",
+    "www2.pepperdash.com",
+    "www2.openstax.org",
+    "www2.reltio.com",
+    "www2.environmentallights.com",
+    "www2.talentwave.com",
+    "www2.arisglobal.com",
+    "www2.primerevenue.com",
+    "www2.newsworks.org.uk",
+    "www2.kurtosys.com",
+    "www2.macstadium.com",
+    "www2.merkleinc.com",
+    "www2.tourismelaval.com",
+    "www2.prontoforms.com",
+    "www2.springasia.com",
+    "www2.kenshoo.com",
+    "www2.newportacademy.com",
+    "www2.demandmetric.com",
+    "www2.digitalalchemy.global",
+    "www2.onlim.com",
+    "www2.eruditus.com",
+    "www2.nordcloud.com",
+    "www2.sohonet.com",
+    "www2.trainingindustry.com",
+    "www2.rigor.com",
+    "www2.aceee.org"
+  ],
+  "m": [
+    "m.zuu.co.jp",
+    "m.kencorp.co.jp",
+    "m.evergage.com"
+  ],
+  "acton": [
+    "acton.simpleviewinc.com"
+  ],
+  "images1": [
+    "images1.test.de"
+  ],
+  "exc": [
+    "exc.mm.dm.de"
+  ],
+  "strack": [
+    "strack.debenhams.com",
+    "strack.bestbuy.ca",
+    "strack.freedommobile.ca",
+    "strack.collegeboard.org",
+    "strack.kitbag.com"
+  ],
+  "wetr": [
+    "wetr.sportscheck.com"
+  ],
+  "ocm8": [
+    "ocm8.masmovil.es"
+  ],
+  "affiliate": [
+    "affiliate.adbeat.com",
+    "affiliate.unisender.com",
+    "affiliate.fsastore.com",
+    "affiliate.cbdbiocare.com",
+    "affiliate.hsastore.com"
+  ],
+  "scsmetrics": [
+    "scsmetrics.vodafone.it"
+  ],
+  "edu": [
+    "edu.interfolio.com"
+  ],
+  "lem": [
+    "lem.nouvelobs.com"
+  ],
+  "sa": [
+    "sa.tactics.com"
+  ],
+  "som": [
+    "som.athenahealth.com",
+    "som.ringcentral.com",
+    "som.kmart.com",
+    "som.sears.com",
+    "som.hotwire.com",
+    "som.aeroplan.com",
+    "som.healthgrades.com"
+  ],
+  "tk": [
+    "tk.abt.com",
+    "tk.svsound.com"
+  ],
+  "smtc": [
+    "smtc.qantas.com"
+  ],
+  "maling": [
+    "maling.dn.no"
+  ],
+  "saainfo": [
+    "saainfo.anz.co.nz"
+  ],
+  "insight": [
+    "insight.wittkieffer.com"
+  ],
+  "drive": [
+    "drive.mecum.com"
+  ],
+  "central": [
+    "central.catchoom.com"
+  ],
+  "kkz": [
+    "kkz.net.krankenkassenzentrale.de"
+  ],
+  "ni8": [
+    "ni8.lafuma.com"
+  ],
+  "clicks": [
+    "clicks.fwd.us",
+    "clicks.piie.com"
   ],
   "smetrics": [
     "smetrics.vitacost.com",
@@ -687,335 +1060,57 @@
     "smetrics.ciena.com",
     "smetrics.deliciousliving.com"
   ],
-  "ao": [
-    "ao.redtri.com"
-  ],
-  "seniorliving": [
-    "seniorliving.kingswoodretirementliving.com",
-    "seniorliving.maryswoods.org"
-  ],
-  "www5": [
-    "www5.untangle.com",
-    "www5.gep.com"
-  ],
-  "lem": [
-    "lem.nouvelobs.com"
-  ],
-  "ssa": [
-    "ssa.diynetwork.com",
-    "ssa.discovery.com",
-    "ssa.food.com",
-    "ssa.foodnetwork.com",
-    "ssa.hgtv.com"
-  ],
-  "sstat": [
-    "sstat.jetsetter.com",
-    "sstat.detelefoongids.nl"
-  ],
-  "ww8": [
-    "ww8.kohls.com"
-  ],
-  "secureanalytics": [
-    "secureanalytics.avis.co.uk",
-    "secureanalytics.avis.se"
-  ],
   "adtd": [
     "adtd.douglas.de"
   ],
-  "ssmr": [
-    "ssmr.so-net.ne.jp",
-    "ssmr.nuro.jp"
+  "secu": [
+    "secu.hagerty.com"
   ],
-  "somt": [
-    "somt.honda.com"
+  "st": [
+    "st.bahn.de",
+    "st.mazdausa.com",
+    "st.newyorklife.com",
+    "st.upmc.com"
   ],
-  "buf": [
-    "buf.lemonde.fr"
+  "mktgpage": [
+    "mktgpage.appier.com"
   ],
-  "join": [
-    "join.ibo.org"
+  "activate1": [
+    "activate1.fidelity.com"
   ],
-  "daten": [
-    "daten.union-investment.de"
+  "eloqua-trackings": [
+    "eloqua-trackings.unity.com"
   ],
-  "saainfo": [
-    "saainfo.anz.co.nz"
+  "advocacy": [
+    "advocacy.ahip.org"
   ],
-  "emails": [
-    "emails.jarviscole.com",
-    "emails.powerobjects.com",
-    "emails.amzetta.com",
-    "emails.emids.com"
+  "dialogue": [
+    "dialogue.mazda.ro"
   ],
-  "res": [
-    "res.programme-television.org"
+  "photography": [
+    "photography.hursey.com"
+  ],
+  "omni": [
+    "omni.hallmarkecards.com"
+  ],
+  "k4fu": [
+    "k4fu.verif.com"
   ],
   "etrack": [
     "etrack.ext.hpe.com",
     "etrack.ext.arubanetworks.com"
   ],
-  "hkj8": [
-    "hkj8.evobanco.com"
+  "s-omniture": [
+    "s-omniture.yell.com"
   ],
-  "pages": [
-    "pages.telemessage.com",
-    "pages.srsmith.com",
-    "pages.litmus.com",
-    "pages.netbase.com",
-    "pages.bsigroup.com"
+  "census": [
+    "census.misterspex.co.uk"
   ],
-  "business": [
-    "business.specialchem.com",
-    "business.guinnessworldrecords.com",
-    "business.nbnco.com.au"
+  "b6ft": [
+    "b6ft.zone-turf.fr"
   ],
-  "www1": [
-    "www1.creadits.com",
-    "www1.nihon-ma.co.jp",
-    "www1.salecycle.com"
-  ],
-  "sc": [
-    "sc.cc.com",
-    "sc.mtv.com",
-    "sc.ulsterbank.co.uk",
-    "sc.natwest.com",
-    "sc.cmt.com",
-    "sc.mundonick.com.br",
-    "sc.vh1.com",
-    "sc.rbs.co.uk",
-    "sc.bellator.com"
-  ],
-  "ww2": [
-    "ww2.nortonshoppingguarantee.com",
-    "ww2.virtusa.com"
-  ],
-  "tk": [
-    "tk.abt.com",
-    "tk.svsound.com"
-  ],
-  "stat-ssl": [
-    "stat-ssl.eiga.com",
-    "stat-ssl.priceprice.com",
-    "stat-ssl.idou.me",
-    "stat-ssl.kakakumag.com",
-    "stat-ssl.webcg.net",
-    "stat-ssl.kinarino.jp",
-    "stat-ssl.tasclap.jp",
-    "stat-ssl.icotto.jp",
-    "stat-ssl.chiku-wa.jp",
-    "stat-ssl.bushikaku.net",
-    "stat-ssl.akiba-souken.com"
-  ],
-  "pardot": [
-    "pardot.vindi.com.br",
-    "pardot.panjiva.com",
-    "pardot.milestonesys.com"
-  ],
-  "inbound": [
-    "inbound.veem.com"
-  ],
-  "cs": [
-    "cs.analytics.lego.com"
-  ],
-  "omniture443": [
-    "omniture443.partycity.com"
-  ],
-  "da": [
-    "da.hornbach.ro",
-    "da.hornbach.nl"
-  ],
-  "visit": [
-    "visit.tafensw.edu.au",
-    "visit.asb.co.nz"
-  ],
-  "nym5c": [
-    "nym5c.laura.ca",
-    "nym5c.bonlook.com"
-  ],
-  "content": [
-    "content.formstack.com",
-    "content.propertyfinder.ae",
-    "content.getpatch.com",
-    "content.lansweeper.com",
-    "content.fico.com",
-    "content.quark.com",
-    "content.loyalistcollege.com"
-  ],
-  "t9h2": [
-    "t9h2.ricardocuisine.com"
-  ],
-  "ww3": [
-    "ww3.business.vonage.com"
-  ],
-  "track": [
-    "track.ferrari.com",
-    "track.connectwise.com"
-  ],
-  "ssc": [
-    "ssc.cc.com",
-    "ssc.southpark.de",
-    "ssc.paramountnetwork.com",
-    "ssc.independent.co.uk",
-    "ssc.cmt.com",
-    "ssc.standard.co.uk",
-    "ssc.disneylandparis.com",
-    "ssc.muji.net",
-    "ssc.vmware.com",
-    "ssc.hl.co.uk",
-    "ssc.cvent.com",
-    "ssc.southparkstudios.nu",
-    "ssc.tvland.com"
-  ],
-  "stereos2s": [
-    "stereos2s.crutchfield.com"
-  ],
-  "gkz4": [
-    "gkz4.pepephone.com"
-  ],
-  "swebstats": [
-    "swebstats.imf.org",
-    "swebstats.americanbar.org"
-  ],
-  "adobeanalytics": [
-    "adobeanalytics.teksystems.com",
-    "adobeanalytics.aerotek.com",
-    "adobeanalytics.allegisgroup.com"
-  ],
-  "www15": [
-    "www15.jtv.com"
-  ],
-  "secure": [
-    "secure.info.domo.com",
-    "secure.analytics.ihg.com",
-    "secure.info.m.seek.co.nz"
-  ],
-  "w3": [
-    "w3.flatex.de"
-  ],
-  "sig": [
-    "sig.ig.com",
-    "sig.nadex.com"
-  ],
-  "marketing2": [
-    "marketing2.technologyadvice.com"
-  ],
-  "elqtracking": [
-    "elqtracking.macegroup.com"
-  ],
-  "adobes": [
-    "adobes.pmi.org"
-  ],
-  "on": [
-    "on.leagueapps.com"
-  ],
-  "partners": [
-    "partners.gamerall.com"
-  ],
-  "tp": [
-    "tp.baur.de",
-    "tp.otto.de",
-    "tp.sportscheck.com",
-    "tp.yomonda.de",
-    "tp.schlafwelt.de",
-    "tp.mytoys.de",
-    "tp.limango.de"
-  ],
-  "secu": [
-    "secu.hagerty.com"
-  ],
-  "omns": [
-    "omns.murdoch.edu.au",
-    "omns.americanexpress.com"
-  ],
-  "ssl-metrics": [
-    "ssl-metrics.tim.it"
-  ],
-  "get": [
-    "get.freightos.com",
-    "get.siriuscom.com"
-  ],
-  "wass": [
-    "wass.ihsmarkit.com"
-  ],
-  "success": [
-    "success.act-on.com",
-    "success.realpage.com",
-    "success.marketleader.com",
-    "success.kigo.net",
-    "success.propertyware.com"
-  ],
-  "os": [
-    "os.shutterfly.com",
-    "os.fandango.com"
-  ],
-  "elq": [
-    "elq.blackrock.com",
-    "elq.irobot.com",
-    "elq.sonicwall.com"
-  ],
-  "te": [
-    "te.otto.de",
-    "te.sportscheck.com"
-  ],
-  "sams": [
-    "sams.spiegel.de",
-    "sams.manager-magazin.de"
-  ],
-  "campaign": [
-    "campaign.visable.com",
-    "campaign.zycus.com"
-  ],
-  "beat": [
-    "beat.thedrum.com"
-  ],
-  "som": [
-    "som.athenahealth.com",
-    "som.ringcentral.com",
-    "som.kmart.com",
-    "som.sears.com",
-    "som.hotwire.com",
-    "som.aeroplan.com",
-    "som.healthgrades.com"
-  ],
-  "as": [
-    "as.bild.de",
-    "as.rollingstone.de",
-    "as.travelbook.de",
-    "as.stylebook.de",
-    "as.welt.de",
-    "as.techbook.de"
-  ],
-  "spr": [
-    "spr.bild.de",
-    "spr.welt.de"
-  ],
-  "promo": [
-    "promo.skf.com"
-  ],
-  "easy": [
-    "easy.surepayroll.com"
-  ],
-  "site": [
-    "site.instamed.com",
-    "site.emarketer.com"
-  ],
-  "sanalytics": [
-    "sanalytics.ncaa.com",
-    "sanalytics.hottopic.com",
-    "sanalytics.hallmark.com",
-    "sanalytics.verizonwireless.com",
-    "sanalytics.spark.co.nz",
-    "sanalytics.verizon.com",
-    "sanalytics.visible.com",
-    "sanalytics.firstbankcard.com",
-    "sanalytics.lovemoney.com",
-    "sanalytics.fnbomaha.com",
-    "sanalytics.southpointcasino.com",
-    "sanalytics.fnbo.com"
-  ],
-  "link": [
-    "link.ferret-plus.com",
-    "link.mediabistro.com"
+  "asd": [
+    "asd.bauhaus.info"
   ],
   "smetric": [
     "smetric.volkswagen.com",
@@ -1032,233 +1127,98 @@
     "smetric.longhornsteakhouse.com",
     "smetric.m.nissan-global.com"
   ],
-  "offers": [
-    "offers.amilia.com"
+  "stt": [
+    "stt.thelott.com"
   ],
-  "photography": [
-    "photography.hursey.com"
+  "td": [
+    "td.jimdo.com",
+    "td.jimdo.com",
+    "td.jimdo.com"
   ],
-  "sci": [
-    "sci.intuit.com"
+  "lantern": [
+    "lantern.kronos.com"
   ],
-  "sslstats": [
-    "sslstats.canadapost.ca",
-    "sslstats.healthydirections.com"
+  "5ijo": [
+    "5ijo.01net.com"
   ],
-  "insight": [
-    "insight.wittkieffer.com"
+  "rpt": [
+    "rpt.final-score.com"
   ],
-  "ans": [
-    "ans.sny.tv",
-    "ans.mlb.com",
-    "ans.milb.com"
+  "infos": [
+    "infos.belong.com.au",
+    "infos.telstra.com.au",
+    "infos.anz.com.au",
+    "infos.vodafone.com.au"
   ],
-  "support": [
-    "support.flex.com"
+  "tracksf": [
+    "tracksf.seedrs.com"
   ],
-  "metricssecure": [
-    "metricssecure.northwesternmutual.com"
+  "visit": [
+    "visit.tafensw.edu.au",
+    "visit.asb.co.nz"
   ],
-  "www91": [
-    "www91.intel.com.br",
-    "www91.intel.com",
-    "www91.intel.cn",
-    "www91.intel.it",
-    "www91.intel.la",
-    "www91.intel.de",
-    "www91.intel.com.tr",
-    "www91.intel.ru",
-    "www91.intel.com.tw"
+  "tp": [
+    "tp.baur.de",
+    "tp.otto.de",
+    "tp.sportscheck.com",
+    "tp.yomonda.de",
+    "tp.schlafwelt.de",
+    "tp.mytoys.de",
+    "tp.limango.de"
   ],
-  "segment": [
-    "segment.magicseaweed.com"
+  "bdoaustralia": [
+    "bdoaustralia.bdo.com.au"
   ],
-  "communications": [
-    "communications.globalwidemedia.com",
-    "communications.lydallpm.com"
+  "aas": [
+    "aas.bellemaison.jp"
   ],
-  "sdc": [
-    "sdc.allianz.de"
+  "learnabout": [
+    "learnabout.insideview.com"
   ],
-  "eultech": [
-    "eultech.fnac.com"
+  "campaign": [
+    "campaign.visable.com",
+    "campaign.zycus.com"
   ],
-  "so": [
-    "so.swisscom.ch",
-    "so.boh.com"
+  "pix": [
+    "pix.telekom.de"
   ],
-  "sametrics": [
-    "sametrics.finn.no"
+  "courses": [
+    "courses.go1.com"
+  ],
+  "scs": [
+    "scs.arcteryx.com"
+  ],
+  "track": [
+    "track.ferrari.com",
+    "track.connectwise.com"
+  ],
+  "try": [
+    "try.omniupdate.com"
   ],
   "states": [
     "states.newegg.com",
     "states.newegg.ca",
     "states.neweggbusiness.com"
   ],
-  "nrg": [
-    "nrg.red-by-sfr.fr"
+  "visitors": [
+    "visitors.winecountrygiftbaskets.com"
   ],
   "simg": [
     "simg.bwin.be",
     "simg.bwin.fr"
   ],
-  "hub": [
-    "hub.firestonecompleteautocare.com"
+  "s": [
+    "s.metrics.popularwoodworking.com",
+    "s.metrics.writersdigest.com",
+    "s.thestar.com",
+    "s.lenovo.com",
+    "s.metric.vodacom.co.za",
+    "s.blinds.com",
+    "s.rosettastone.eu",
+    "s.metrics.interweave.com"
   ],
-  "d2bj": [
-    "d2bj.quebec-cite.com"
-  ],
-  "smatrix": [
-    "smatrix.hbo.com"
-  ],
-  "bdoaustralia": [
-    "bdoaustralia.bdo.com.au"
-  ],
-  "metrics1": [
-    "metrics1.citi.com"
-  ],
-  "pd-cs": [
-    "pd-cs.hana-yume.net"
-  ],
-  "commercial": [
-    "commercial.davey.com"
-  ],
-  "build": [
-    "build.usgbc.org"
-  ],
-  "engage": [
-    "engage.gordon.edu",
-    "engage.halliburton.com",
-    "engage.activeprospect.com",
-    "engage.emids.com",
-    "engage.cmnty.com",
-    "engage.3mcompany.jp",
-    "engage.3m.com.hk",
-    "engage.3m.com.tw"
-  ],
-  "stats-ssl": [
-    "stats-ssl.mdanderson.org"
-  ],
-  "membership": [
-    "membership.mortonarb.org"
-  ],
-  "smeasurement": [
-    "smeasurement.nissan.ca"
-  ],
-  "forms": [
-    "forms.goway.com"
-  ],
-  "trace": [
-    "trace.insead.edu"
-  ],
-  "exc": [
-    "exc.mm.dm.de"
-  ],
-  "ea": [
-    "ea.hofmann.es",
-    "ea.warnerbros.fr",
-    "ea.vente-unique.com",
-    "ea.pixmania.co.uk",
-    "ea.aujourdhui.com"
-  ],
-  "pdt": [
-    "pdt.mcafee.com"
-  ],
-  "barp3": [
-    "barp3.bordeaux.aeroport.fr"
-  ],
-  "fiwinet": [
-    "fiwinet.firmenwissen.de"
-  ],
-  "eloqua": [
-    "eloqua.infobip.com",
-    "eloqua.liberty.edu"
-  ],
-  "www6": [
-    "www6.gemalto.com"
-  ],
-  "insights": [
-    "insights.ocorian.com"
-  ],
-  "sreport": [
-    "sreport.mitsubishicars.com"
-  ],
-  "smy": [
-    "smy.iheart.com"
-  ],
-  "gsasolutionssecure": [
-    "gsasolutionssecure.gsa.gov"
-  ],
-  "smon": [
-    "smon.loc.gov",
-    "smon.congress.gov"
-  ],
-  "www-172": [
-    "www-172.aig.com"
-  ],
-  "oms": [
-    "oms.hotels.cn",
-    "oms.goarmy.com",
-    "oms.symantec.com",
-    "oms.norton.com",
-    "oms.hotels.com",
-    "oms.expedia.com",
-    "oms.neimanmarcus.com",
-    "oms.rogersmedia.com"
-  ],
-  "online": [
-    "online.tru.ca"
-  ],
-  "starget": [
-    "starget.intel.com.br",
-    "starget.intel.com",
-    "starget.intel.cn",
-    "starget.intel.it",
-    "starget.intel.la",
-    "starget.intel.de",
-    "starget.intel.com.tr",
-    "starget.intel.ru",
-    "starget.intel.com.tw"
-  ],
-  "sanl": [
-    "sanl.eastbay.com",
-    "sanl.footlocker.com",
-    "sanl.footlocker.ca",
-    "sanl.champssports.com",
-    "sanl.footaction.com"
-  ],
-  "mva1": [
-    "mva1.maeva.com"
-  ],
-  "clicks": [
-    "clicks.fwd.us",
-    "clicks.piie.com"
-  ],
-  "tag": [
-    "tag.boulanger.fr"
-  ],
-  "stt": [
-    "stt.thelott.com"
-  ],
-  "furnishings": [
-    "furnishings.bellacor.com"
-  ],
-  "dialogue": [
-    "dialogue.mazda.ro"
-  ],
-  "tt": [
-    "tt.ulsterbank.co.uk",
-    "tt.natwest.com",
-    "tt.rbs.co.uk"
-  ],
-  "e": [
-    "e.itgovernance.co.uk"
-  ],
-  "iop4": [
-    "iop4.aireuropa.com"
-  ],
-  "f7ds": [
-    "f7ds.liberation.fr"
+  "emetrics": [
+    "emetrics.bose.com"
   ],
   "info": [
     "info.commondreams.org",
@@ -1339,62 +1299,92 @@
     "info.datavail.com",
     "info.avaya.com"
   ],
-  "seahorseinfo": [
-    "seahorseinfo.agilent.com"
+  "tracking": [
+    "tracking.experiencescottsdale.com",
+    "tracking.info.servicenow.com",
+    "tracking.questdiagnostics.com",
+    "tracking.scoresandodds.com",
+    "tracking.vegasinsider.com",
+    "tracking.rotogrinders.com",
+    "tracking.bettingexpert.com",
+    "tracking.adp.ca",
+    "tracking.adp.com",
+    "tracking.cat.com",
+    "tracking.columbiabank.com",
+    "tracking.eloqua.modernize.com",
+    "tracking.uwindsor.ca",
+    "tracking.yealink.com",
+    "tracking.lg.com"
   ],
-  "bb": [
-    "bb.blackberry.com"
+  "action": [
+    "action.advisorycloud.com"
   ],
-  "sub1": [
-    "sub1.cosmosdirekt.de"
+  "prophet": [
+    "prophet.heise.de"
   ],
-  "gi7a": [
-    "gi7a.structube.com"
+  "affiliates": [
+    "affiliates.e-goi.com",
+    "affiliates.wegow.com",
+    "affiliates.purevpn.com",
+    "affiliates.advertisingboost.com",
+    "affiliates.chemicloud.com"
   ],
-  "ftn": [
-    "ftn.fortuneo.fr"
+  "wbtrkk": [
+    "wbtrkk.deutschlandcard.de",
+    "wbtrkk.teufel.de"
   ],
-  "vgpf89": [
-    "vgpf89.hellobonafide.com"
+  "omns": [
+    "omns.murdoch.edu.au",
+    "omns.americanexpress.com"
   ],
-  "somnit": [
-    "somnit.equinox.com"
+  "promo": [
+    "promo.skf.com"
   ],
-  "solutions": [
-    "solutions.bouyguestelecom-entreprises.fr"
+  "stat-ssl": [
+    "stat-ssl.eiga.com",
+    "stat-ssl.priceprice.com",
+    "stat-ssl.idou.me",
+    "stat-ssl.kakakumag.com",
+    "stat-ssl.webcg.net",
+    "stat-ssl.kinarino.jp",
+    "stat-ssl.tasclap.jp",
+    "stat-ssl.icotto.jp",
+    "stat-ssl.chiku-wa.jp",
+    "stat-ssl.bushikaku.net",
+    "stat-ssl.akiba-souken.com"
   ],
-  "aon": [
-    "aon.smartbrief.com"
+  "sadobemarketing": [
+    "sadobemarketing.boden.eu",
+    "sadobemarketing.bodenusa.com",
+    "sadobemarketing.bodenclothing.com.au",
+    "sadobemarketing.boden.co.uk"
   ],
-  "kohlermetricssecure": [
-    "kohlermetricssecure.kohler.com"
+  "mtrs": [
+    "mtrs.fluor.com"
   ],
-  "downloads": [
-    "downloads.globalsign.com"
+  "hub": [
+    "hub.firestonecompleteautocare.com"
   ],
-  "startrekk": [
-    "startrekk.flaconi.de"
+  "inbound": [
+    "inbound.veem.com"
   ],
-  "scsmetrics": [
-    "scsmetrics.vodafone.it"
+  "business": [
+    "business.specialchem.com",
+    "business.guinnessworldrecords.com",
+    "business.nbnco.com.au"
   ],
-  "tracksf": [
-    "tracksf.seedrs.com"
+  "trackingssl": [
+    "trackingssl.aginsurance.be"
   ],
-  "globalcommunications": [
-    "globalcommunications.sc.com"
+  "tracking-explore-ft": [
+    "tracking-explore-ft.agilent.com"
   ],
-  "kkz": [
-    "kkz.net.krankenkassenzentrale.de"
+  "a": [
+    "a.evergage.com",
+    "a.20minutes.fr"
   ],
-  "0815": [
-    "0815.mytoys.de"
-  ],
-  "ocm8": [
-    "ocm8.masmovil.es"
-  ],
-  "digital": [
-    "digital.adtaxi.com"
+  "minerva": [
+    "minerva.healthcommunities.com"
   ],
   "connect": [
     "connect.digi.com",
@@ -1406,8 +1396,22 @@
     "connect.abi.org",
     "connect.netapp.com"
   ],
-  "gjr5": [
-    "gjr5.yoigo.com"
+  "nats": [
+    "nats.xing.com"
+  ],
+  "secure": [
+    "secure.info.domo.com",
+    "secure.analytics.ihg.com",
+    "secure.info.m.seek.co.nz"
+  ],
+  "sreport": [
+    "sreport.mitsubishicars.com"
+  ],
+  "www-172": [
+    "www-172.aig.com"
+  ],
+  "erutinmos": [
+    "erutinmos.snagajob.com"
   ],
   "dii2": [
     "dii2.zooplus.de",
@@ -1415,65 +1419,27 @@
     "dii2.zooplus.nl",
     "dii2.zooplus.se"
   ],
-  "start": [
-    "start.ecornell.com"
+  "downloads": [
+    "downloads.globalsign.com"
   ],
-  "trial": [
-    "trial.onfleet.com"
+  "on": [
+    "on.leagueapps.com"
   ],
-  "learn": [
-    "learn.middlebury.edu",
-    "learn.sgu.edu",
-    "learn.revenuewire.com",
-    "learn.evidenceinmotion.com",
-    "learn.rainfocus.com"
+  "cs": [
+    "cs.analytics.lego.com"
   ],
-  "somn": [
-    "somn.sonypictures.com"
+  "offers": [
+    "offers.amilia.com"
   ],
-  "emarketing": [
-    "emarketing.landisgyr.com",
-    "emarketing.moveo.com"
+  "theoceannetwork": [
+    "theoceannetwork.inttra.com"
   ],
-  "sm": [
-    "sm.dell.com",
-    "sm.stjude.org",
-    "sm.edweek.org"
+  "tag": [
+    "tag.boulanger.fr"
   ],
-  "sdc2": [
-    "sdc2.credit-suisse.com"
-  ],
-  "st": [
-    "st.bahn.de",
-    "st.mazdausa.com",
-    "st.newyorklife.com",
-    "st.upmc.com"
-  ],
-  "www": [
-    "www.go.interxion.com"
-  ],
-  "ch0p": [
-    "ch0p.darty.com"
-  ],
-  "wt": [
-    "wt.ara.cat"
-  ],
-  "biz-sol": [
-    "biz-sol.sony.jp"
-  ],
-  "securecookies": [
-    "securecookies.dustinhome.se",
-    "securecookies.dustinhome.dk",
-    "securecookies.dustin.dk",
-    "securecookies.dustin.no",
-    "securecookies.dustinhome.no"
-  ],
-  "swebanalytics": [
-    "swebanalytics.eniro.se",
-    "swebanalytics.pgatour.com",
-    "swebanalytics.acs.org",
-    "swebanalytics.gulesider.no",
-    "swebanalytics.krak.dk"
+  "page": [
+    "page.bsigroup.com",
+    "page.chewse.com"
   ],
   "sadobe": [
     "sadobe.falabella.com",
@@ -1481,244 +1447,15 @@
     "sadobe.falabella.com.ar",
     "sadobe.falabella.com.co"
   ],
-  "proditor": [
-    "proditor.sparda.de"
+  "bb": [
+    "bb.blackberry.com"
   ],
-  "adc": [
-    "adc.moemax.de",
-    "adc.emp.de",
-    "adc.moebelix.at"
-  ],
-  "solution": [
-    "solution.javelin-tech.com"
-  ],
-  "smodus": [
-    "smodus.nike.com"
-  ],
-  "scookies-adobe": [
-    "scookies-adobe.kbc.be"
-  ],
-  "netc": [
-    "netc.sfr.fr"
-  ],
-  "deut1": [
-    "deut1.fdj.fr"
-  ],
-  "valuesecure": [
-    "valuesecure.register.com"
-  ],
-  "www2": [
-    "www2.matterport.com",
-    "www2.gembaacademy.com",
-    "www2.trl.co.uk",
-    "www2.mofo.com",
-    "www2.voxco.com",
-    "www2.universumglobal.com",
-    "www2.joyce-meyer.de",
-    "www2.salesloft.com",
-    "www2.infosecinstitute.com",
-    "www2.emeritus.org",
-    "www2.lanches.co.jp",
-    "www2.monstar-lab.com",
-    "www2.powerweb.co.jp",
-    "www2.ezlinksgolf.com",
-    "www2.clmbs.jp",
-    "www2.comdesign.co.jp",
-    "www2.estanalytical.com",
-    "www2.gourmetads.com",
-    "www2.future-shop.jp",
-    "www2.lumapps.com",
-    "www2.ep.com",
-    "www2.sftravel.com",
-    "www2.taroworks.org",
-    "www2.reveelgroup.com",
-    "www2.deltaprivatejets.com",
-    "www2.mega.com",
-    "www2.licetroopers.com",
-    "www2.shellblack.com",
-    "www2.realestatewebmasters.com",
-    "www2.emi-rs.com",
-    "www2.europe.ryder.com",
-    "www2.fond.co",
-    "www2.bentoforbusiness.com",
-    "www2.ezyeducation.co.uk",
-    "www2.ideal.com",
-    "www2.fitspotwellness.com",
-    "www2.centro.net",
-    "www2.dakotasoft.com",
-    "www2.pepperdash.com",
-    "www2.openstax.org",
-    "www2.reltio.com",
-    "www2.environmentallights.com",
-    "www2.talentwave.com",
-    "www2.arisglobal.com",
-    "www2.primerevenue.com",
-    "www2.newsworks.org.uk",
-    "www2.kurtosys.com",
-    "www2.macstadium.com",
-    "www2.merkleinc.com",
-    "www2.tourismelaval.com",
-    "www2.prontoforms.com",
-    "www2.springasia.com",
-    "www2.kenshoo.com",
-    "www2.newportacademy.com",
-    "www2.demandmetric.com",
-    "www2.digitalalchemy.global",
-    "www2.onlim.com",
-    "www2.eruditus.com",
-    "www2.nordcloud.com",
-    "www2.sohonet.com",
-    "www2.trainingindustry.com",
-    "www2.rigor.com",
-    "www2.aceee.org"
-  ],
-  "omn": [
-    "omn.sonypictures.com"
-  ],
-  "metric": [
-    "metric.tsite.jp",
-    "metric.changiairport.com"
-  ],
-  "t": [
-    "t.nordea.fi",
-    "t.nordea.dk",
-    "t.nordea.se",
-    "t.nordea.no",
-    "t.spod.com",
-    "t.wiz.meilleurtaux.com"
-  ],
-  "sdcs": [
-    "sdcs.felissimo.co.jp"
-  ],
-  "www3s": [
-    "www3s.ing.be"
-  ],
-  "was": [
-    "was.stubhub.com",
-    "was.vodafone.de"
-  ],
-  "mdws": [
-    "mdws.vancity.com",
-    "mdws.assiniboine.mb.ca",
-    "mdws.coastalfinancial.ca",
-    "mdws.comtechfirecu.com",
-    "mdws.penfinancial.com",
-    "mdws.wscu.com"
-  ],
-  "web": [
-    "web.gistia.com",
-    "web.healthcatalyst.com",
-    "web.mytoys.de"
-  ],
-  "images1": [
-    "images1.test.de"
-  ],
-  "wddnff": [
-    "wddnff.bonprix.cz"
-  ],
-  "webstats": [
-    "webstats.garanti.com.tr",
-    "webstats.channel4.com",
-    "webstats.americanbar.org"
-  ],
-  "eulerian": [
-    "eulerian.brandalley.fr"
-  ],
-  "swa": [
-    "swa.gifts.com",
-    "swa.proflowers.com",
-    "swa.wowcher.co.uk",
-    "swa.eonline.com",
-    "swa.vodafone.cz",
-    "swa.vodafone.pt",
-    "swa.bol.com",
-    "swa.metro.co.uk",
-    "swa.consumentenbond.nl",
-    "swa.personalcreations.com",
-    "swa.postnl.nl"
-  ],
-  "stats": [
-    "stats.premiumsim.de",
-    "stats.tou.tv",
-    "stats.winsim.de",
-    "stats.adultswim.com",
-    "stats.handyvertrag.de",
-    "stats.radio-canada.ca",
-    "stats.agl.com.au",
-    "stats.rcinet.ca",
-    "stats.mint.ca"
-  ],
-  "sodc": [
-    "sodc.weather.com",
-    "sodc.wunderground.com"
-  ],
-  "info2": [
-    "info2.exclusiveconcepts.com"
-  ],
-  "elqtracking1": [
-    "elqtracking1.tetrapak.com"
-  ],
-  "wetr": [
-    "wetr.sportscheck.com"
-  ],
-  "tracker": [
-    "tracker.engage.tomtom.com",
-    "tracker.providence.org"
-  ],
-  "xid": [
-    "xid.cryptokitties.co",
-    "xid.dicksmith.co.nz",
-    "xid.terraform.io",
-    "xid.myob.com",
-    "xid.kogan.com",
-    "xid.tororadar.com.br",
-    "xid.glossier.com",
-    "xid.vagrantup.com",
-    "xid.dicksmith.com.au",
-    "xid.driversed.com",
-    "xid.consulting.com",
-    "xid.aceable.com",
-    "xid.olympic.org",
-    "xid.citycentredeira.com",
-    "xid.blackstone.com",
-    "xid.hashicorp.com",
-    "xid.idrivesafely.com",
-    "xid.statuspage.io",
-    "xid.olympicchannel.com",
-    "xid.consul.io",
-    "xid.sourcetreeapp.com",
-    "xid.intothegloss.com",
-    "xid.myob.co.nz",
-    "xid.samovens.com",
-    "xid.mode.com",
-    "xid.learn.co",
-    "xid.thespotlyte.com",
-    "xid.flatironschool.com"
-  ],
-  "sometrics": [
-    "sometrics.netapp.com"
-  ],
-  "mond": [
-    "mond.post.ch"
-  ],
-  "analytics": [
-    "analytics.nordea.fi",
-    "analytics.ubs.com",
-    "analytics.navyfederal.org",
-    "analytics.nordea.com",
-    "analytics.nordea.dk",
-    "analytics.nordea.se",
-    "analytics.pnc.com",
-    "analytics.cibc.com",
-    "analytics.nordea.no",
-    "analytics.ae.com",
-    "analytics.tcm.com",
-    "analytics.capitalgroup.com",
-    "analytics.simplyhealth.co.uk",
-    "analytics.myhermes.de"
-  ],
-  "ts": [
-    "ts.popsugar.com"
+  "success": [
+    "success.act-on.com",
+    "success.realpage.com",
+    "success.marketleader.com",
+    "success.kigo.net",
+    "success.propertyware.com"
   ],
   "wttd": [
     "wttd.douglas.nl",
@@ -1726,230 +1463,207 @@
     "wttd.madeleine.de",
     "wttd.douglas.it"
   ],
-  "saadata": [
-    "saadata.netjets.com"
+  "study": [
+    "study.sjsu.edu"
   ],
-  "mbns": [
-    "mbns.bruker.com"
+  "tracking1": [
+    "tracking1.questdiagnostics.com"
   ],
-  "p": [
-    "p.spaceclaim.com"
+  "securemetrics": [
+    "securemetrics.apple.com.cn",
+    "securemetrics.gap.co.uk",
+    "securemetrics.apple.com",
+    "securemetrics.blackrock.com",
+    "securemetrics.gapfactory.com",
+    "securemetrics.gap.eu"
   ],
-  "news": [
-    "news.clipcanvas.com",
-    "news.neworleanscitybusiness.com"
-  ],
-  "travel": [
-    "travel.quarkexpeditions.com"
-  ],
-  "wbtrkk": [
-    "wbtrkk.deutschlandcard.de",
-    "wbtrkk.teufel.de"
-  ],
-  "grow": [
-    "grow.cardtapp.com"
-  ],
-  "smetc": [
-    "smetc.banfield.com"
-  ],
-  "pub": [
-    "pub.vendasta.com"
-  ],
-  "resources": [
-    "resources.davey.com",
-    "resources.infostretch.com"
-  ],
-  "communication": [
-    "communication.thomas-krenn.com"
-  ],
-  "sftr2": [
-    "sftr2.external.xerox.com"
-  ],
-  "ct5m": [
-    "ct5m.citadium.com"
-  ],
-  "wwwna": [
-    "wwwna.alsglobal.com"
-  ],
-  "click": [
-    "click.amazingfacts.org"
-  ],
-  "ssite": [
-    "ssite.johnlewis.com"
-  ],
-  "email": [
-    "email.zerotothree.org",
-    "email.seminar-info.jp",
-    "email.brightmls.com",
-    "email.paragonrouting.com"
-  ],
-  "agency": [
-    "agency.reportgarden.com"
-  ],
-  "let1": [
-    "let1.devialet.com"
-  ],
-  "smetrics1": [
-    "smetrics1.experian.com"
-  ],
-  "discover": [
-    "discover.1path.com",
-    "discover.10play.com.au",
-    "discover.10daily.com.au"
+  "sosc": [
+    "sosc.hrs.de",
+    "sosc.hrs.com"
   ],
   "al-smetrics": [
     "al-smetrics.vizio.com"
   ],
-  "pi": [
-    "pi.revlocal.com",
-    "pi.subsplash.com"
+  "somnivis": [
+    "somnivis.overstock.com"
   ],
-  "b": [
-    "b.fox.com",
-    "b.koodomobile.com",
-    "b.law.com",
-    "b.telus.com",
-    "b.snow.com",
-    "b.medtronic.com"
+  "landing": [
+    "landing.altaro.com"
   ],
-  "iiot": [
-    "iiot.linx.jp"
+  "marketing2": [
+    "marketing2.technologyadvice.com"
   ],
-  "affiliate": [
-    "affiliate.adbeat.com",
-    "affiliate.unisender.com",
-    "affiliate.fsastore.com",
-    "affiliate.cbdbiocare.com",
-    "affiliate.hsastore.com"
+  "samc": [
+    "samc.zkb.ch"
   ],
-  "stat": [
-    "stat.bdc.ca"
+  "so": [
+    "so.swisscom.ch",
+    "so.boh.com"
   ],
-  "johannes": [
-    "johannes.voith.com"
+  "partners": [
+    "partners.gamerall.com"
   ],
-  "ni8": [
-    "ni8.lafuma.com"
+  "kohlermetricssecure": [
+    "kohlermetricssecure.kohler.com"
   ],
-  "b6ft": [
-    "b6ft.zone-turf.fr"
+  "o": [
+    "o.movies.com"
   ],
-  "securetags": [
-    "securetags.esri.com"
+  "netc": [
+    "netc.sfr.fr"
   ],
-  "nats": [
-    "nats.xing.com"
+  "ssl": [
+    "ssl.o.auspost.com.au",
+    "ssl.o.emedicinehealth.com",
+    "ssl.o.webmd.com",
+    "ssl.o.medhelp.org",
+    "ssl.aafp.org",
+    "ssl.o.mdedge.com",
+    "ssl.o.onhealth.com",
+    "ssl.affiliate.logitravel.com"
   ],
-  "empa": [
-    "empa.flixbus.de"
+  "www91": [
+    "www91.intel.com.br",
+    "www91.intel.com",
+    "www91.intel.cn",
+    "www91.intel.it",
+    "www91.intel.la",
+    "www91.intel.de",
+    "www91.intel.com.tr",
+    "www91.intel.ru",
+    "www91.intel.com.tw"
   ],
-  "omni": [
-    "omni.hallmarkecards.com"
+  "a2": [
+    "a2.avomeen.com"
   ],
-  "courses": [
-    "courses.go1.com"
+  "d2bj": [
+    "d2bj.quebec-cite.com"
   ],
-  "tracking-explore-ft": [
-    "tracking-explore-ft.agilent.com"
+  "sadbmetrics": [
+    "sadbmetrics.laverdad.es",
+    "sadbmetrics.elcomercio.es",
+    "sadbmetrics.hoy.es",
+    "sadbmetrics.lavozdigital.es",
+    "sadbmetrics.abc.es",
+    "sadbmetrics.diariovasco.com",
+    "sadbmetrics.eldiariomontanes.es",
+    "sadbmetrics.zendalibros.com",
+    "sadbmetrics.mujerhoy.com",
+    "sadbmetrics.lasprovincias.es",
+    "sadbmetrics.ideal.es",
+    "sadbmetrics.diariosur.es",
+    "sadbmetrics.granadablogs.com",
+    "sadbmetrics.elnortedecastilla.es",
+    "sadbmetrics.psicoactiva.com",
+    "sadbmetrics.elcorreo.com",
+    "sadbmetrics.pisos.com"
   ],
-  "s-adobe": [
-    "s-adobe.wacoal.jp"
+  "wass": [
+    "wass.ihsmarkit.com"
   ],
-  "sowa": [
-    "sowa.carhartt.com"
+  "engage": [
+    "engage.gordon.edu",
+    "engage.halliburton.com",
+    "engage.activeprospect.com",
+    "engage.emids.com",
+    "engage.cmnty.com",
+    "engage.3mcompany.jp",
+    "engage.3m.com.hk",
+    "engage.3m.com.tw"
   ],
-  "visitors": [
-    "visitors.winecountrygiftbaskets.com"
+  "hello": [
+    "hello.vagaro.com",
+    "hello.tollbrothers.com"
   ],
-  "swasc": [
-    "swasc.homedepot.com"
+  "ssc": [
+    "ssc.cc.com",
+    "ssc.southpark.de",
+    "ssc.paramountnetwork.com",
+    "ssc.independent.co.uk",
+    "ssc.cmt.com",
+    "ssc.standard.co.uk",
+    "ssc.disneylandparis.com",
+    "ssc.muji.net",
+    "ssc.vmware.com",
+    "ssc.hl.co.uk",
+    "ssc.cvent.com",
+    "ssc.southparkstudios.nu",
+    "ssc.tvland.com"
   ],
-  "mtrs": [
-    "mtrs.fluor.com"
+  "pdt": [
+    "pdt.mcafee.com"
   ],
-  "data": [
-    "data.engelhorn.de",
-    "data.inbank.it",
-    "data.sparkasse.at",
-    "data.pepephone.com",
-    "data.goertz.de"
+  "srepdata": [
+    "srepdata.hoopshype.com",
+    "srepdata.detroitnews.com",
+    "srepdata.redding.com",
+    "srepdata.caller.com",
+    "srepdata.indystar.com",
+    "srepdata.freep.com",
+    "srepdata.news-press.com",
+    "srepdata.golfweek.com",
+    "srepdata.guampdn.com",
+    "srepdata.tennessean.com",
+    "srepdata.rgj.com",
+    "srepdata.knoxnews.com",
+    "srepdata.cincinnati.com",
+    "srepdata.courier-journal.com",
+    "srepdata.jsonline.com",
+    "srepdata.commercialappeal.com",
+    "srepdata.northjersey.com",
+    "srepdata.lohud.com",
+    "srepdata.democratandchronicle.com",
+    "srepdata.greenvilleonline.com",
+    "srepdata.hawkcentral.com",
+    "srepdata.thenorthwestern.com",
+    "srepdata.desmoinesregister.com",
+    "srepdata.coloradoan.com",
+    "srepdata.floridatoday.com",
+    "srepdata.app.com",
+    "srepdata.delmarvanow.com",
+    "srepdata.burlingtonfreepress.com",
+    "srepdata.clarionledger.com",
+    "srepdata.mansfieldnewsjournal.com",
+    "srepdata.pnj.com",
+    "srepdata.thehuddle.com",
+    "srepdata.thenewsstar.com",
+    "srepdata.thetimesherald.com",
+    "srepdata.timesrecordnews.com",
+    "srepdata.news-leader.com",
+    "srepdata.tallahassee.com",
+    "srepdata.lansingstatejournal.com",
+    "srepdata.packersnews.com",
+    "srepdata.greatfallstribune.com",
+    "srepdata.wisfarmer.com",
+    "srepdata.thetowntalk.com"
   ],
-  "marketing": [
-    "marketing.konecranes.com",
-    "marketing.triplelift.com",
-    "marketing.nativo.com",
-    "marketing.deepcrawl.com",
-    "marketing.clickatell.com",
-    "marketing.findyourinfluence.com",
-    "marketing.njoyn.com",
-    "marketing.cisco-eagle.com",
-    "marketing.visitgreaterpalmsprings.com",
-    "marketing.visitparkcity.com",
-    "marketing.visitsaltlake.com",
-    "marketing.digitalcurrent.com",
-    "marketing.smartvault.com",
-    "marketing.astm.org",
-    "marketing.datawatchsystems.com",
-    "marketing.cesco.com",
-    "marketing.fluentco.com",
-    "marketing.bswift.com",
-    "marketing.travelmarketreport.com",
-    "marketing.starmicronics.com",
-    "marketing.business-sweden.se",
-    "marketing.rakutensl.com",
-    "marketing.parkmycloud.com",
-    "marketing.thisiscleveland.com",
-    "marketing.riogrande.com",
-    "marketing.absoluteexhibits.com",
-    "marketing.microlise.com",
-    "marketing.visitcalgary.com",
-    "marketing.translations.com",
-    "marketing.enhancedvision.com",
-    "marketing.soscanhelp.com",
-    "marketing.syntax.com",
-    "marketing.homedna.com",
-    "marketing.kiran.com",
-    "marketing.labdepotinc.com",
-    "marketing.act-on.usw.edu",
-    "marketing.adventuresmithexplorations.com",
-    "marketing.avoxi.com",
-    "marketing.atinternet.com",
-    "marketing.taskus.com",
-    "marketing.doctorlogic.com",
-    "marketing.peoplehr.com",
-    "marketing.marlabs.com",
-    "marketing.net.kredito24.es",
-    "marketing.net.zooroyal.de",
-    "marketing.net.zalando-lounge.nl",
-    "marketing.net.zalando-prive.it",
-    "marketing.net.home24.de",
-    "marketing.net.fidor.de",
-    "marketing.net.zalando-lounge.de",
-    "marketing.net.home24.at",
-    "marketing.seatadvisor.com"
+  "click": [
+    "click.amazingfacts.org"
   ],
-  "analyticsssl": [
-    "analyticsssl.forcepoint.com"
+  "okr": [
+    "okr.resily.com"
   ],
-  "sanmet": [
-    "sanmet.originenergy.com.au"
+  "newsletter": [
+    "newsletter.davey.com"
   ],
-  "trackingssl": [
-    "trackingssl.aginsurance.be"
+  "zmpvij": [
+    "zmpvij.bonprix.fr"
   ],
-  "image": [
-    "image.ard.de"
+  "travel": [
+    "travel.quarkexpeditions.com"
   ],
-  "ressources": [
-    "ressources.caradisiac.com",
-    "ressources.lacentrale.fr"
+  "san": [
+    "san.constantcontact.com"
   ],
-  "page": [
-    "page.bsigroup.com",
-    "page.chewse.com"
+  "www": [
+    "www.go.interxion.com"
   ],
-  "compare-im": [
-    "compare-im.onlinetours.ru"
+  "data1": [
+    "data1.virginmobile.ca",
+    "data1.bell.ca"
+  ],
+  "proditor": [
+    "proditor.sparda.de"
   ],
   "somtrdc": [
     "somtrdc.jobstreet.co.id",
@@ -1958,40 +1672,118 @@
     "somtrdc.jobstreet.com.sg",
     "somtrdc.jobstreet.com"
   ],
+  "adc": [
+    "adc.moemax.de",
+    "adc.emp.de",
+    "adc.moebelix.at"
+  ],
+  "te": [
+    "te.otto.de",
+    "te.sportscheck.com"
+  ],
+  "nym5c": [
+    "nym5c.laura.ca",
+    "nym5c.bonlook.com"
+  ],
+  "pages": [
+    "pages.telemessage.com",
+    "pages.srsmith.com",
+    "pages.litmus.com",
+    "pages.netbase.com",
+    "pages.bsigroup.com"
+  ],
+  "piwik": [
+    "piwik.clearcode.cc"
+  ],
+  "sanalytics": [
+    "sanalytics.ncaa.com",
+    "sanalytics.hottopic.com",
+    "sanalytics.hallmark.com",
+    "sanalytics.verizonwireless.com",
+    "sanalytics.spark.co.nz",
+    "sanalytics.verizon.com",
+    "sanalytics.visible.com",
+    "sanalytics.firstbankcard.com",
+    "sanalytics.lovemoney.com",
+    "sanalytics.fnbomaha.com",
+    "sanalytics.southpointcasino.com",
+    "sanalytics.fnbo.com"
+  ],
+  "sometrics": [
+    "sometrics.netapp.com"
+  ],
+  "solutions": [
+    "solutions.bouyguestelecom-entreprises.fr"
+  ],
+  "compare": [
+    "compare.aviakassa.com",
+    "compare.travelata.ru",
+    "compare.biletyplus.ru",
+    "compare.hotelsone.com",
+    "compare.fly4free.pl",
+    "compare.triphobo.com",
+    "compare.volaris.com",
+    "compare.justfly.com",
+    "compare.easyviajar.com",
+    "compare.wanderu.com",
+    "compare.flighthub.com",
+    "compare.fly4free.com",
+    "compare.easyvoyage.co.uk",
+    "compare.reservations.com",
+    "compare.biletik.aero",
+    "compare.vivaaerobus.com",
+    "compare.trivago.com",
+    "compare.easyvoyage.de",
+    "compare.mapcarta.com",
+    "compare.clickavia.ru",
+    "compare.uvidpustku.com",
+    "compare.liligo.com",
+    "compare.alibabuy.com"
+  ],
+  "uue2": [
+    "uue2.destinia.ir"
+  ],
+  "discover": [
+    "discover.1path.com",
+    "discover.10play.com.au",
+    "discover.10daily.com.au"
+  ],
+  "p": [
+    "p.spaceclaim.com"
+  ],
+  "grow": [
+    "grow.cardtapp.com"
+  ],
+  "sstat": [
+    "sstat.jetsetter.com",
+    "sstat.detelefoongids.nl"
+  ],
+  "now": [
+    "now.pearsonschool.com",
+    "now.notebooksbilliger.de"
+  ],
+  "ski1": [
+    "ski1.skiset.com"
+  ],
+  "ssa": [
+    "ssa.diynetwork.com",
+    "ssa.discovery.com",
+    "ssa.food.com",
+    "ssa.foodnetwork.com",
+    "ssa.hgtv.com"
+  ],
+  "was": [
+    "was.stubhub.com",
+    "was.vodafone.de"
+  ],
+  "pd-cs": [
+    "pd-cs.hana-yume.net"
+  ],
+  "w2": [
+    "w2.techinsights.com"
+  ],
   "pipe": [
     "pipe.flixbus.com"
-  ],
-  "lantern": [
-    "lantern.kronos.com"
-  ],
-  "tippcom01": [
-    "tippcom01.tipp24.com"
-  ],
-  "eloqua-trackings": [
-    "eloqua-trackings.unity.com"
-  ],
-  "ma": [
-    "ma.njss.info",
-    "ma.certify.com",
-    "ma.digitalstakeout.com"
-  ],
-  "service": [
-    "service.e-recht24.de"
-  ],
-  "asd": [
-    "asd.bauhaus.info"
-  ],
-  "5ijo": [
-    "5ijo.01net.com"
-  ],
-  "a2": [
-    "a2.avomeen.com"
-  ],
-  "abc": [
-    "abc.esprit.fi"
-  ],
-  "tracking1": [
-    "tracking1.questdiagnostics.com"
   ],
   "metrics": [
     "metrics.modcloth.com",
@@ -2063,110 +1855,748 @@
     "metrics.gq.com.au",
     "metrics.delicious.com.au"
   ],
-  "drive": [
-    "drive.mecum.com"
+  "barp3": [
+    "barp3.bordeaux.aeroport.fr"
   ],
-  "goto": [
-    "goto.algolia.com",
-    "goto.sportradar.com"
+  "securecookies": [
+    "securecookies.dustinhome.se",
+    "securecookies.dustinhome.dk",
+    "securecookies.dustin.dk",
+    "securecookies.dustin.no",
+    "securecookies.dustinhome.no"
   ],
-  "k": [
-    "k.rueducommerce.fr",
-    "k.terdav.com"
+  "aon": [
+    "aon.smartbrief.com"
   ],
-  "w2": [
-    "w2.techinsights.com"
-  ],
-  "elqact": [
-    "elqact.gartner.com"
-  ],
-  "ot": [
-    "ot.obi.cz",
-    "ot.obi.at"
+  "sodc": [
+    "sodc.weather.com",
+    "sodc.wunderground.com"
   ],
   "bonjour": [
     "bonjour.akeneo.com"
   ],
-  "bhu9": [
-    "bhu9.bankia.es"
+  "saadata": [
+    "saadata.netjets.com"
   ],
-  "advocacy": [
-    "advocacy.ahip.org"
+  "somnistats": [
+    "somnistats.jetblue.com"
   ],
-  "ccmd": [
-    "ccmd.coveredca.com"
+  "somniture": [
+    "somniture.stuff.co.nz",
+    "somniture.scotiabank.com",
+    "somniture.chip.de",
+    "somniture.compactappliance.com"
+  ],
+  "sametrics": [
+    "sametrics.finn.no"
+  ],
+  "swa": [
+    "swa.gifts.com",
+    "swa.proflowers.com",
+    "swa.wowcher.co.uk",
+    "swa.eonline.com",
+    "swa.vodafone.cz",
+    "swa.vodafone.pt",
+    "swa.bol.com",
+    "swa.metro.co.uk",
+    "swa.consumentenbond.nl",
+    "swa.personalcreations.com",
+    "swa.postnl.nl"
+  ],
+  "wddnff": [
+    "wddnff.bonprix.cz"
+  ],
+  "scookies-adobe": [
+    "scookies-adobe.kbc.be"
+  ],
+  "globalcommunications": [
+    "globalcommunications.sc.com"
+  ],
+  "elqact": [
+    "elqact.gartner.com"
+  ],
+  "s362693299": [
+    "s362693299.aon.com"
+  ],
+  "sci": [
+    "sci.intuit.com"
+  ],
+  "ssite": [
+    "ssite.johnlewis.com"
+  ],
+  "deal": [
+    "deal.karte.io"
   ],
   "scout": [
     "scout.bergfreunde.eu",
     "scout.bergfreunde.de"
   ],
-  "admissions": [
-    "admissions.setonhill.edu"
+  "forms": [
+    "forms.goway.com"
   ],
-  "di8n": [
-    "di8n.bfmtv.com"
+  "adobes": [
+    "adobes.pmi.org"
   ],
-  "hello": [
-    "hello.vagaro.com",
-    "hello.tollbrothers.com"
+  "swebstats": [
+    "swebstats.imf.org",
+    "swebstats.americanbar.org"
   ],
-  "sstats": [
-    "sstats.vanityfair.com",
-    "sstats.hostelworld.com",
-    "sstats.epicurious.com",
-    "sstats.deloitte.com",
-    "sstats.tdameritrade.com",
-    "sstats.tiffany.com",
-    "sstats.bookingbuddy.com",
-    "sstats.airfarewatchdog.com",
-    "sstats.mistergooddeal.com",
-    "sstats.americafirst.com",
-    "sstats.wired.com",
-    "sstats.tiffany.co.uk",
-    "sstats.investors.com",
-    "sstats.adobe.com",
-    "sstats.self.com",
-    "sstats.bbt.com",
-    "sstats.backcountry.com",
-    "sstats.raffles.com",
-    "sstats.kroger.com",
-    "sstats.o2tv.cz",
-    "sstats.mora-qualitas.com",
-    "sstats.harlequin.com",
-    "sstats.bonappetit.com",
-    "sstats.harrods.com",
-    "sstats.bitdefender.com",
-    "sstats.fairmont.com",
-    "sstats.steepandcheap.com",
-    "sstats.tiffany.ca",
-    "sstats.swissotel.com",
-    "sstats.www.o2.cz",
-    "sstats.pitchfork.com",
-    "sstats.newyorker.com",
-    "sstats.golfdigest.com",
-    "sstats.hostelbookers.com",
-    "sstats.tiffany.it",
-    "sstats.motosport.com",
-    "sstats.oyster.com",
-    "sstats.alfa.com",
-    "sstats.nationwidechildrens.org",
-    "sstats.fishersci.com",
-    "sstats.whattopack.com",
-    "sstats.familyvacationcritic.com",
-    "sstats.competitivecyclist.com",
-    "sstats.build.com",
-    "sstats.mt.com",
-    "sstats.csa.cz",
-    "sstats.faucet.com"
+  "support": [
+    "support.flex.com"
   ],
-  "hal": [
-    "hal.courrierinternational.com"
+  "sftr2": [
+    "sftr2.external.xerox.com"
+  ],
+  "tt": [
+    "tt.ulsterbank.co.uk",
+    "tt.natwest.com",
+    "tt.rbs.co.uk"
+  ],
+  "solution": [
+    "solution.javelin-tech.com"
+  ],
+  "analyticsssl": [
+    "analyticsssl.forcepoint.com"
+  ],
+  "ww2": [
+    "ww2.nortonshoppingguarantee.com",
+    "ww2.virtusa.com"
+  ],
+  "om": [
+    "om.lds.org"
+  ],
+  "sawap": [
+    "sawap.equifax.com"
+  ],
+  "ea": [
+    "ea.hofmann.es",
+    "ea.warnerbros.fr",
+    "ea.vente-unique.com",
+    "ea.pixmania.co.uk",
+    "ea.aujourdhui.com"
+  ],
+  "ressources": [
+    "ressources.caradisiac.com",
+    "ressources.lacentrale.fr"
+  ],
+  "stms": [
+    "stms.53.com"
+  ],
+  "fci4": [
+    "fci4.doctipharma.fr"
+  ],
+  "daten": [
+    "daten.union-investment.de"
+  ],
+  "st-nlyss1": [
+    "st-nlyss1.plala.or.jp"
+  ],
+  "let1": [
+    "let1.devialet.com"
+  ],
+  "activate": [
+    "activate.maurices.com"
+  ],
+  "fiwinet": [
+    "fiwinet.firmenwissen.de"
+  ],
+  "pi": [
+    "pi.revlocal.com",
+    "pi.subsplash.com"
+  ],
+  "iop4": [
+    "iop4.aireuropa.com"
+  ],
+  "ch0p": [
+    "ch0p.darty.com"
   ],
   "info-sf1": [
     "info-sf1.sugarcrm.com"
   ],
-  "christians": [
-    "christians.lifeway.com"
+  "sm": [
+    "sm.dell.com",
+    "sm.stjude.org",
+    "sm.edweek.org"
+  ],
+  "elqtracking1": [
+    "elqtracking1.tetrapak.com"
+  ],
+  "omsc": [
+    "omsc.kpn.com"
+  ],
+  "smon": [
+    "smon.loc.gov",
+    "smon.congress.gov"
+  ],
+  "metricssecure": [
+    "metricssecure.northwesternmutual.com"
+  ],
+  "outreach": [
+    "outreach.crossref.org"
+  ],
+  "web": [
+    "web.gistia.com",
+    "web.healthcatalyst.com",
+    "web.mytoys.de"
+  ],
+  "smeasurement": [
+    "smeasurement.nissan.ca"
+  ],
+  "resource": [
+    "resource.smartling.com"
+  ],
+  "pardot": [
+    "pardot.vindi.com.br",
+    "pardot.panjiva.com",
+    "pardot.milestonesys.com"
+  ],
+  "smetrics1": [
+    "smetrics1.experian.com"
+  ],
+  "eloqua": [
+    "eloqua.infobip.com",
+    "eloqua.liberty.edu"
+  ],
+  "om-ssl": [
+    "om-ssl.consorsbank.de"
+  ],
+  "info2": [
+    "info2.exclusiveconcepts.com"
+  ],
+  "somnit": [
+    "somnit.equinox.com"
+  ],
+  "di8n": [
+    "di8n.bfmtv.com"
+  ],
+  "furnishings": [
+    "furnishings.bellacor.com"
+  ],
+  "w7": [
+    "w7.berlin.de",
+    "w7.weihnachteninberlin.de"
+  ],
+  "elq": [
+    "elq.blackrock.com",
+    "elq.irobot.com",
+    "elq.sonicwall.com"
+  ],
+  "omn": [
+    "omn.sonypictures.com"
+  ],
+  "bhu9": [
+    "bhu9.bankia.es"
+  ],
+  "imagine": [
+    "imagine.foundry.com"
+  ],
+  "mva1": [
+    "mva1.maeva.com"
+  ],
+  "spr": [
+    "spr.bild.de",
+    "spr.welt.de"
+  ],
+  "compare-im": [
+    "compare-im.onlinetours.ru"
+  ],
+  "emarketing": [
+    "emarketing.landisgyr.com",
+    "emarketing.moveo.com"
+  ],
+  "learn": [
+    "learn.middlebury.edu",
+    "learn.sgu.edu",
+    "learn.revenuewire.com",
+    "learn.evidenceinmotion.com",
+    "learn.rainfocus.com"
+  ],
+  "www15": [
+    "www15.jtv.com"
+  ],
+  "go": [
+    "go.marfeel.com",
+    "go.loveshaw.com",
+    "go.mitchell1.com",
+    "go.newgensoft.com",
+    "go.infopulse.com",
+    "go.springbot.com",
+    "go.plot.ly",
+    "go.geoedge.com",
+    "go.quore.com",
+    "go.erecruiter.pl",
+    "go.shippingeasy.com",
+    "go.advertise.com",
+    "go.jabil.com",
+    "go.nexcess.net",
+    "go.econsultancy.com",
+    "go.nextiva.com",
+    "go.pageuppeople.com",
+    "go.smartinsights.com",
+    "go.kanopy.com",
+    "go.truckstop.com",
+    "go.kabbage.com",
+    "go.jinjibu.jp",
+    "go.1sbc.com",
+    "go.adomik.com",
+    "go.ashita-team.com",
+    "go.adventure-life.com",
+    "go.demandforce.com",
+    "go.accesso.com",
+    "go.dignitymemorial.com",
+    "go.smaato.com",
+    "go.neverware.com",
+    "go.daijob.com",
+    "go.webhose.io",
+    "go.updates.iata.org",
+    "go.esri.com",
+    "go.gengo.com",
+    "go.assurx.com",
+    "go.toriaez.jp",
+    "go.video-b.com",
+    "go.liveu.tv",
+    "go.imotions.com",
+    "go.massmutual.com",
+    "go.cboe.com",
+    "go.gett.com",
+    "go.adjust.com",
+    "go.bus.com",
+    "go.getbento.com",
+    "go.happyfox.com",
+    "go.skuvault.com",
+    "go.yamatonoodle.com",
+    "go.ebis.ne.jp",
+    "go.eigyoh.com",
+    "go.ibjapan.com",
+    "go.propublica.org",
+    "go.njit.edu",
+    "go.urkund.com",
+    "go.spscommerce.com",
+    "go.monotaro.com",
+    "go.sourcescrub.com",
+    "go.ripstech.com",
+    "go.hldc.co.jp",
+    "go.leggenda.co.jp",
+    "go.line.jp.net",
+    "go.bostonprivate.com",
+    "go.powerdigitalmarketing.com",
+    "go.freedomhouse.org",
+    "go.clearcapital.com",
+    "go.sekatsuna.com",
+    "go.financialengines.com",
+    "go.sinalite.com",
+    "go.pixela.co.jp",
+    "go.moneris.com",
+    "go.chatplus.jp",
+    "go.globis.ac.jp",
+    "go.corehr.com",
+    "go.bebit.co.jp",
+    "go.whitecross.co.jp",
+    "go.justworks.com",
+    "go.linuxacademy.com",
+    "go.trendhunter.com",
+    "go.autoalert.com",
+    "go.boostability.com",
+    "go.ayudante.jp",
+    "go.securite.jp",
+    "go.stworld.jp",
+    "go.getconvey.com",
+    "go.bigteams.com",
+    "go.biltapp.com",
+    "go.tyntec.com",
+    "go.hiacode.com",
+    "go.learnosity.com",
+    "go.thinknum.com",
+    "go.minolusa.com",
+    "go.globalscape.com",
+    "go.safe.com",
+    "go.nayax.com",
+    "go.singular.net",
+    "go.magesolution.com",
+    "go.mbs.com.vn",
+    "go.3qdigital.com",
+    "go.fingercheck.com",
+    "go.gmercyu.edu",
+    "go.rightatschool.com",
+    "go.atinternet.com",
+    "go.zeromotorcycles.com",
+    "go.jeanhailes.org.au",
+    "go.serversaustralia.com.au",
+    "go.upside.com",
+    "go.connect4education.com",
+    "go.customerlobby.com",
+    "go.datron.com",
+    "go.healthsavings.com",
+    "go.icpcnj.org",
+    "go.brennancenter.org",
+    "go.chanzuckerberg.com",
+    "go.harveybp.com",
+    "go.gensteel.com",
+    "go.jaggaer.com",
+    "go.examity.com",
+    "go.sodexo.com",
+    "go.control4.com",
+    "go.dynarex.com",
+    "go.cambiumnetworks.com",
+    "go.tradingtechnologies.com",
+    "go.nexford.org",
+    "go.milestoneinternet.com",
+    "go.canpango.com",
+    "go.cb4.com",
+    "go.chartlogic.com",
+    "go.nmi.com",
+    "go.rebag.com",
+    "go.expertise.com",
+    "go.americannursetoday.com",
+    "go.temenos.com",
+    "go.taylorandfrancis.com",
+    "go.maropost.com",
+    "go.masterbrand.com",
+    "go.insightsoftware.com",
+    "go.boomtownroi.com",
+    "go.themisbar.com",
+    "go.accella.net",
+    "go.mymajors.com",
+    "go.netigate.net",
+    "go.coresight.com",
+    "go.beeswax.com",
+    "go.illuminateed.com",
+    "go.imodules.com",
+    "go.islandwood.org",
+    "go.guidewellconnect.com",
+    "go.heartlandpaymentsystems.com",
+    "go.pork.org",
+    "go.rainn.org",
+    "go.realmassive.com",
+    "go.ccalliance.org",
+    "go.enverus.com",
+    "go.aircall.io",
+    "go.jlg.com",
+    "go.americanlaboratorytrading.com",
+    "go.rocktechnology.sandvik",
+    "go.lightedge.com",
+    "go.worldbook.com",
+    "go.noviflow.com",
+    "go.pricer.com",
+    "go.fivetran.com",
+    "go.stefanini.com",
+    "go.quocard.com",
+    "go.kepleranalytics.com",
+    "go.techwave.net",
+    "go.broadly.com",
+    "go.tadashishoji.com",
+    "go.tnsglobal.com",
+    "go.tripplite.com",
+    "go.usp.org",
+    "go.vlocity.com",
+    "go.alliedtelesis.com",
+    "go.sulzer.com",
+    "go.raconteur.net",
+    "go.forcemedia.co.jp",
+    "go.idealistconsulting.com",
+    "go.homestars.com",
+    "go.drillinginfo.com",
+    "go.cloudcall.com",
+    "go.gmsliveexpert.com",
+    "go.signals-analytics.com",
+    "go.intelex.com",
+    "go.ixiasoft.com",
+    "go.diodes.com",
+    "go.neb.com",
+    "go.oncolens.com",
+    "go.ansolutions.com",
+    "go.getsidecar.com",
+    "go.phs.co.uk",
+    "go.best-teacher-inc.com",
+    "go.ecommercefulfilment.com",
+    "go.softwebsolutions.com",
+    "go.cheetahdigital.com",
+    "go.coherent.com",
+    "go.kognity.com",
+    "go.metacompliance.com",
+    "go.precor.com",
+    "go.qudini.com",
+    "go.questevents.com.au",
+    "go.rauantiques.com",
+    "go.optimahcs.com",
+    "go.thomasjameshomesusa.com",
+    "go.visaplace.com",
+    "go.ilpa.org",
+    "go.adeccousa.com",
+    "go.akacrm.com",
+    "go.sinch.com",
+    "go.adinstruments.com",
+    "go.anaqua.com",
+    "go.cravo.com",
+    "go.oracle.com"
+  ],
+  "sanmet": [
+    "sanmet.originenergy.com.au"
+  ],
+  "wwwna": [
+    "wwwna.alsglobal.com"
+  ],
+  "beat": [
+    "beat.thedrum.com"
+  ],
+  "omtr2": [
+    "omtr2.partners.salesforce.com"
+  ],
+  "w3": [
+    "w3.flatex.de"
+  ],
+  "communication": [
+    "communication.thomas-krenn.com"
+  ],
+  "email": [
+    "email.zerotothree.org",
+    "email.seminar-info.jp",
+    "email.brightmls.com",
+    "email.paragonrouting.com"
+  ],
+  "ww3": [
+    "ww3.business.vonage.com"
+  ],
+  "trial": [
+    "trial.onfleet.com"
+  ],
+  "otracks": [
+    "otracks.workday.com"
+  ],
+  "stat": [
+    "stat.bdc.ca"
+  ],
+  "www3": [
+    "www3.livingstonintl.com",
+    "www3.cloudera.com",
+    "www3.toray-research.co.jp",
+    "www3.campuslabs.com"
+  ],
+  "swasc": [
+    "swasc.homedepot.com"
+  ],
+  "mc": [
+    "mc.bruker.com"
+  ],
+  "suncanny": [
+    "suncanny.marvelhq.com",
+    "suncanny.marvel.com"
+  ],
+  "ccmd": [
+    "ccmd.coveredca.com"
+  ],
+  "os": [
+    "os.shutterfly.com",
+    "os.fandango.com"
+  ],
+  "pixel": [
+    "pixel.augsburger-allgemeine.de"
+  ],
+  "online": [
+    "online.tru.ca"
+  ],
+  "join": [
+    "join.ibo.org"
+  ],
+  "software": [
+    "software.lexisnexis.com"
+  ],
+  "ao": [
+    "ao.redtri.com"
+  ],
+  "0815": [
+    "0815.mytoys.de"
+  ],
+  "mbns": [
+    "mbns.bruker.com"
+  ],
+  "segment": [
+    "segment.magicseaweed.com"
+  ],
+  "rockerbox": [
+    "rockerbox.hayneedle.com",
+    "rockerbox.brighthealthplan.com"
+  ],
+  "compareim": [
+    "compareim.pobeda.aero"
+  ],
+  "adobeanalytics": [
+    "adobeanalytics.teksystems.com",
+    "adobeanalytics.aerotek.com",
+    "adobeanalytics.allegisgroup.com"
+  ],
+  "gjr5": [
+    "gjr5.yoigo.com"
+  ],
+  "www1": [
+    "www1.creadits.com",
+    "www1.nihon-ma.co.jp",
+    "www1.salecycle.com"
+  ],
+  "hal": [
+    "hal.courrierinternational.com"
+  ],
+  "e": [
+    "e.itgovernance.co.uk"
+  ],
+  "admissions": [
+    "admissions.setonhill.edu"
+  ],
+  "omniture-dc-sec": [
+    "omniture-dc-sec.cadence.com"
+  ],
+  "abc": [
+    "abc.esprit.fi"
+  ],
+  "johannes": [
+    "johannes.voith.com"
+  ],
+  "ftn": [
+    "ftn.fortuneo.fr"
+  ],
+  "digistats": [
+    "digistats.westjet.com"
+  ],
+  "da": [
+    "da.hornbach.ro",
+    "da.hornbach.nl"
+  ],
+  "ssldata": [
+    "ssldata.thepointsguy.com"
+  ],
+  "tippcom01": [
+    "tippcom01.tipp24.com"
+  ],
+  "sowa": [
+    "sowa.carhartt.com"
+  ],
+  "gsasolutionssecure": [
+    "gsasolutionssecure.gsa.gov"
+  ],
+  "mond": [
+    "mond.post.ch"
+  ],
+  "ot": [
+    "ot.obi.cz",
+    "ot.obi.at"
+  ],
+  "trace": [
+    "trace.insead.edu"
+  ],
+  "spscas": [
+    "spscas.hitachi-solutions.co.jp"
+  ],
+  "ssmr": [
+    "ssmr.so-net.ne.jp",
+    "ssmr.nuro.jp"
+  ],
+  "get": [
+    "get.freightos.com",
+    "get.siriuscom.com"
+  ],
+  "biz-sol": [
+    "biz-sol.sony.jp"
+  ],
+  "sanl": [
+    "sanl.eastbay.com",
+    "sanl.footlocker.com",
+    "sanl.footlocker.ca",
+    "sanl.champssports.com",
+    "sanl.footaction.com"
+  ],
+  "goto": [
+    "goto.algolia.com",
+    "goto.sportradar.com"
+  ],
+  "hw": [
+    "hw.hostway.com"
+  ],
+  "xid": [
+    "xid.cryptokitties.co",
+    "xid.dicksmith.co.nz",
+    "xid.terraform.io",
+    "xid.myob.com",
+    "xid.kogan.com",
+    "xid.tororadar.com.br",
+    "xid.glossier.com",
+    "xid.vagrantup.com",
+    "xid.dicksmith.com.au",
+    "xid.driversed.com",
+    "xid.consulting.com",
+    "xid.aceable.com",
+    "xid.olympic.org",
+    "xid.citycentredeira.com",
+    "xid.blackstone.com",
+    "xid.hashicorp.com",
+    "xid.idrivesafely.com",
+    "xid.statuspage.io",
+    "xid.olympicchannel.com",
+    "xid.consul.io",
+    "xid.sourcetreeapp.com",
+    "xid.intothegloss.com",
+    "xid.myob.co.nz",
+    "xid.samovens.com",
+    "xid.mode.com",
+    "xid.learn.co",
+    "xid.thespotlyte.com",
+    "xid.flatironschool.com"
+  ],
+  "buf": [
+    "buf.lemonde.fr"
+  ],
+  "wvw": [
+    "wvw.barry-callebaut.com"
+  ],
+  "sc": [
+    "sc.cc.com",
+    "sc.mtv.com",
+    "sc.ulsterbank.co.uk",
+    "sc.natwest.com",
+    "sc.cmt.com",
+    "sc.mundonick.com.br",
+    "sc.vh1.com",
+    "sc.rbs.co.uk",
+    "sc.bellator.com"
+  ],
+  "sdcs": [
+    "sdcs.felissimo.co.jp"
+  ],
+  "ma": [
+    "ma.njss.info",
+    "ma.certify.com",
+    "ma.digitalstakeout.com"
+  ],
+  "somn": [
+    "somn.sonypictures.com"
+  ],
+  "sitecats": [
+    "sitecats.troweprice.com"
+  ],
+  "valuesecure": [
+    "valuesecure.register.com"
+  ],
+  "vgpf89": [
+    "vgpf89.hellobonafide.com"
+  ],
+  "sams": [
+    "sams.spiegel.de",
+    "sams.manager-magazin.de"
+  ],
+  "mas-sandbox": [
+    "mas-sandbox.marsh.com"
+  ],
+  "swebanalytics": [
+    "swebanalytics.eniro.se",
+    "swebanalytics.pgatour.com",
+    "swebanalytics.acs.org",
+    "swebanalytics.gulesider.no",
+    "swebanalytics.krak.dk"
+  ],
+  "smodus": [
+    "smodus.nike.com"
+  ],
+  "ed": [
+    "ed.emp.de"
   ],
   "somni": [
     "somni.thermofisher.com",
@@ -2191,437 +2621,7 @@
     "somni.rockethomes.com",
     "somni.bostonpizza.com"
   ],
-  "live": [
-    "live.aap.com.au"
-  ],
-  "maling": [
-    "maling.dn.no"
-  ],
-  "s-omniture": [
-    "s-omniture.yell.com"
-  ],
-  "smtc": [
-    "smtc.qantas.com"
-  ],
-  "tracking": [
-    "tracking.experiencescottsdale.com",
-    "tracking.info.servicenow.com",
-    "tracking.questdiagnostics.com",
-    "tracking.scoresandodds.com",
-    "tracking.vegasinsider.com",
-    "tracking.rotogrinders.com",
-    "tracking.bettingexpert.com",
-    "tracking.adp.ca",
-    "tracking.adp.com",
-    "tracking.cat.com",
-    "tracking.columbiabank.com",
-    "tracking.eloqua.modernize.com",
-    "tracking.uwindsor.ca",
-    "tracking.yealink.com",
-    "tracking.lg.com"
-  ],
-  "mktg": [
-    "mktg.lightspeed.com",
-    "mktg.schlage.com",
-    "mktg.registria.com"
-  ],
-  "deal": [
-    "deal.karte.io"
-  ],
-  "o": [
-    "o.movies.com"
-  ],
-  "erutinmos": [
-    "erutinmos.snagajob.com"
-  ],
-  "somnivis": [
-    "somnivis.overstock.com"
-  ],
-  "sadobemarketing": [
-    "sadobemarketing.boden.eu",
-    "sadobemarketing.bodenusa.com",
-    "sadobemarketing.bodenclothing.com.au",
-    "sadobemarketing.boden.co.uk"
-  ],
-  "activate1": [
-    "activate1.fidelity.com"
-  ],
-  "waaf1": [
-    "waaf1.alditalk.de",
-    "waaf1.aldifotos.de"
-  ],
-  "sadobeanalytics": [
-    "sadobeanalytics.geico.com"
-  ],
-  "s362693299": [
-    "s362693299.aon.com"
-  ],
-  "strack": [
-    "strack.debenhams.com",
-    "strack.bestbuy.ca",
-    "strack.freedommobile.ca",
-    "strack.collegeboard.org",
-    "strack.kitbag.com"
-  ],
-  "srepdata": [
-    "srepdata.hoopshype.com",
-    "srepdata.detroitnews.com",
-    "srepdata.redding.com",
-    "srepdata.caller.com",
-    "srepdata.indystar.com",
-    "srepdata.freep.com",
-    "srepdata.news-press.com",
-    "srepdata.golfweek.com",
-    "srepdata.guampdn.com",
-    "srepdata.tennessean.com",
-    "srepdata.rgj.com",
-    "srepdata.knoxnews.com",
-    "srepdata.cincinnati.com",
-    "srepdata.courier-journal.com",
-    "srepdata.jsonline.com",
-    "srepdata.commercialappeal.com",
-    "srepdata.northjersey.com",
-    "srepdata.lohud.com",
-    "srepdata.democratandchronicle.com",
-    "srepdata.greenvilleonline.com",
-    "srepdata.hawkcentral.com",
-    "srepdata.thenorthwestern.com",
-    "srepdata.desmoinesregister.com",
-    "srepdata.coloradoan.com",
-    "srepdata.floridatoday.com",
-    "srepdata.app.com",
-    "srepdata.delmarvanow.com",
-    "srepdata.burlingtonfreepress.com",
-    "srepdata.clarionledger.com",
-    "srepdata.mansfieldnewsjournal.com",
-    "srepdata.pnj.com",
-    "srepdata.thehuddle.com",
-    "srepdata.thenewsstar.com",
-    "srepdata.thetimesherald.com",
-    "srepdata.timesrecordnews.com",
-    "srepdata.news-leader.com",
-    "srepdata.tallahassee.com",
-    "srepdata.lansingstatejournal.com",
-    "srepdata.packersnews.com",
-    "srepdata.greatfallstribune.com",
-    "srepdata.wisfarmer.com",
-    "srepdata.thetowntalk.com"
-  ],
-  "compare": [
-    "compare.aviakassa.com",
-    "compare.travelata.ru",
-    "compare.biletyplus.ru",
-    "compare.hotelsone.com",
-    "compare.fly4free.pl",
-    "compare.triphobo.com",
-    "compare.volaris.com",
-    "compare.justfly.com",
-    "compare.easyviajar.com",
-    "compare.wanderu.com",
-    "compare.flighthub.com",
-    "compare.fly4free.com",
-    "compare.easyvoyage.co.uk",
-    "compare.reservations.com",
-    "compare.biletik.aero",
-    "compare.vivaaerobus.com",
-    "compare.trivago.com",
-    "compare.easyvoyage.de",
-    "compare.mapcarta.com",
-    "compare.clickavia.ru",
-    "compare.uvidpustku.com",
-    "compare.liligo.com",
-    "compare.alibabuy.com"
-  ],
-  "somniture": [
-    "somniture.stuff.co.nz",
-    "somniture.scotiabank.com",
-    "somniture.chip.de",
-    "somniture.compactappliance.com"
-  ],
-  "landing": [
-    "landing.altaro.com"
-  ],
-  "mas-sandbox": [
-    "mas-sandbox.marsh.com"
-  ],
-  "ssl": [
-    "ssl.o.auspost.com.au",
-    "ssl.o.emedicinehealth.com",
-    "ssl.o.webmd.com",
-    "ssl.o.medhelp.org",
-    "ssl.aafp.org",
-    "ssl.o.mdedge.com",
-    "ssl.o.onhealth.com",
-    "ssl.affiliate.logitravel.com"
-  ],
-  "w7": [
-    "w7.berlin.de",
-    "w7.weihnachteninberlin.de"
-  ],
-  "cj": [
-    "cj.madeleine.de"
-  ],
-  "tdf1": [
-    "tdf1.easyviajar.com",
-    "tdf1.easyvoyage.co.uk",
-    "tdf1.easyvoyage.de"
-  ],
-  "sw88": [
-    "sw88.go.com",
-    "sw88.go.com",
-    "sw88.disney.ru",
-    "sw88.espn.com",
-    "sw88.disney.co.jp",
-    "sw88.disneynow.com",
-    "sw88.go.com",
-    "sw88.starwars.ru",
-    "sw88.disneyrewards.com"
-  ],
-  "pixel": [
-    "pixel.augsburger-allgemeine.de"
-  ],
-  "try": [
-    "try.omniupdate.com"
-  ],
-  "suncanny": [
-    "suncanny.marvelhq.com",
-    "suncanny.marvel.com"
-  ],
-  "now": [
-    "now.pearsonschool.com",
-    "now.notebooksbilliger.de"
-  ],
-  "rockerbox": [
-    "rockerbox.hayneedle.com",
-    "rockerbox.brighthealthplan.com"
-  ],
-  "samc": [
-    "samc.zkb.ch"
-  ],
-  "sitecats": [
-    "sitecats.troweprice.com"
-  ],
-  "st-nlyss1": [
-    "st-nlyss1.plala.or.jp"
-  ],
-  "dtmssl": [
-    "dtmssl.bobcat.com"
-  ],
-  "experience": [
-    "experience.asb.co.nz"
-  ],
-  "ed": [
-    "ed.emp.de"
-  ],
-  "somnistats": [
-    "somnistats.jetblue.com"
-  ],
-  "action": [
-    "action.advisorycloud.com"
-  ],
-  "om": [
-    "om.lds.org"
-  ],
-  "td": [
-    "td.jimdo.com",
-    "td.jimdo.com",
-    "td.jimdo.com"
-  ],
-  "activate": [
-    "activate.maurices.com"
-  ],
-  "wvw": [
-    "wvw.barry-callebaut.com"
-  ],
-  "vry9": [
-    "vry9.destinia.com"
-  ],
-  "software": [
-    "software.lexisnexis.com"
-  ],
-  "uue2": [
-    "uue2.destinia.ir"
-  ],
-  "k4fu": [
-    "k4fu.verif.com"
-  ],
-  "affiliates": [
-    "affiliates.e-goi.com",
-    "affiliates.wegow.com",
-    "affiliates.purevpn.com",
-    "affiliates.advertisingboost.com",
-    "affiliates.chemicloud.com"
-  ],
-  "census": [
-    "census.misterspex.co.uk"
-  ],
-  "spscas": [
-    "spscas.hitachi-solutions.co.jp"
-  ],
-  "infos": [
-    "infos.belong.com.au",
-    "infos.telstra.com.au",
-    "infos.anz.com.au",
-    "infos.vodafone.com.au"
-  ],
-  "saa": [
-    "saa.tallink.com",
-    "saa.irvinecompanyapartments.com",
-    "saa.irvinecompanyoffice.com"
-  ],
-  "acton": [
-    "acton.simpleviewinc.com"
-  ],
-  "a": [
-    "a.evergage.com",
-    "a.20minutes.fr"
-  ],
-  "imagine": [
-    "imagine.foundry.com"
-  ],
-  "prophet": [
-    "prophet.heise.de"
-  ],
-  "aas": [
-    "aas.bellemaison.jp"
-  ],
-  "sales": [
-    "sales.disneylandparis.com"
-  ],
-  "sminerva": [
-    "sminerva.healthcentral.com"
-  ],
-  "mktgpage": [
-    "mktgpage.appier.com"
-  ],
-  "ssldata": [
-    "ssldata.thepointsguy.com"
-  ],
-  "omtr2": [
-    "omtr2.partners.salesforce.com"
-  ],
-  "sosc": [
-    "sosc.hrs.de",
-    "sosc.hrs.com"
-  ],
-  "mis": [
-    "mis.mtl.org"
-  ],
-  "purpose": [
-    "purpose.fressnapf.de"
-  ],
-  "m": [
-    "m.zuu.co.jp",
-    "m.kencorp.co.jp",
-    "m.evergage.com"
-  ],
-  "omsc": [
-    "omsc.kpn.com"
-  ],
-  "www-stats-so": [
-    "www-stats-so.f-secure.com"
-  ],
-  "ski1": [
-    "ski1.skiset.com"
-  ],
-  "omniture-dc-sec": [
-    "omniture-dc-sec.cadence.com"
-  ],
-  "execution-ci360": [
-    "execution-ci360.worldwildlife.org",
-    "execution-ci360.stoloto.ru",
-    "execution-ci360.frankfurt-airport.com",
-    "execution-ci360.paulfredrick.com",
-    "execution-ci360.nature.org"
-  ],
-  "newsletter": [
-    "newsletter.davey.com"
-  ],
-  "emetrics": [
-    "emetrics.bose.com"
-  ],
-  "theoceannetwork": [
-    "theoceannetwork.inttra.com"
-  ],
-  "edu": [
-    "edu.interfolio.com"
-  ],
-  "study": [
-    "study.sjsu.edu"
-  ],
-  "piwik": [
-    "piwik.clearcode.cc"
-  ],
-  "compareim": [
-    "compareim.pobeda.aero"
-  ],
-  "swebmetrics": [
-    "swebmetrics.zebra.com"
-  ],
-  "central": [
-    "central.catchoom.com"
-  ],
-  "nsmetrics": [
-    "nsmetrics.ni.com"
-  ],
-  "mc": [
-    "mc.bruker.com"
-  ],
-  "fci4": [
-    "fci4.doctipharma.fr"
-  ],
-  "securemetrics": [
-    "securemetrics.apple.com.cn",
-    "securemetrics.gap.co.uk",
-    "securemetrics.apple.com",
-    "securemetrics.blackrock.com",
-    "securemetrics.gapfactory.com",
-    "securemetrics.gap.eu"
-  ],
-  "aff": [
-    "aff.scalahosting.com"
-  ],
-  "omniture-ssl": [
-    "omniture-ssl.walmart.ca",
-    "omniture-ssl.walmart.com"
-  ],
-  "san": [
-    "san.constantcontact.com"
-  ],
-  "tr": [
-    "tr.computeruniverse.net"
-  ],
-  "resource": [
-    "resource.smartling.com"
-  ],
-  "data1": [
-    "data1.virginmobile.ca",
-    "data1.bell.ca"
-  ],
-  "digistats": [
-    "digistats.westjet.com"
-  ],
   "zm5d": [
     "zm5d.lexpress.fr"
-  ],
-  "industry": [
-    "industry.promo.skf.com"
-  ],
-  "otracks": [
-    "otracks.workday.com"
-  ],
-  "scnd": [
-    "scnd.landsend.co.uk",
-    "scnd.landsend.com",
-    "scnd.landsend.co.jp"
-  ],
-  "zmpvij": [
-    "zmpvij.bonprix.fr"
-  ],
-  "www3": [
-    "www3.livingstonintl.com",
-    "www3.cloudera.com",
-    "www3.toray-research.co.jp",
-    "www3.campuslabs.com"
   ]
 }

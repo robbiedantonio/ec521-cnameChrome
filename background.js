@@ -1,3 +1,5 @@
+const checkSD = require('./checkSD'); // Import the checkSD class
+
 //chrome.storage.local has a 5MB limit per extension so we may have to watch out for this
 
 
@@ -33,6 +35,8 @@ function checkCookieFlags() {
       const cookiesWithoutSecure = cookies.filter(cookie => !cookie.secure);
 
       // 4 patrick --> domain check
+      var checkObj = new checkSD();
+      console.log(checkObj.check("sadobeanalytics.geico.com")); // replace w/ proper sd
   
       // Log the cookies that don't have httpOnly set
       console.log("Cookies without httpOnly set:", cookiesWithoutHttpOnly);

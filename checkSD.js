@@ -11,8 +11,8 @@ class checkSD {
     }
 }
 
-
-module.exports = checkSD
+export default checkSD;
+//module.exports = checkSD
 
 // var checkObj = new checkSD();
 // console.log(checkObj.check("sadobeanalytics.geico.com"));

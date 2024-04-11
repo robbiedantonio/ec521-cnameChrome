@@ -1,4 +1,7 @@
-const checkSD = require('./checkSD'); // Import the checkSD class
+import checkSD from './checkSD.js';
+const checker = new checkSD();
+
+//const checkSD = require('./checkSD'); // Import the checkSD class
 
 //chrome.storage.local has a 5MB limit per extension so we may have to watch out for this
 

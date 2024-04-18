@@ -3,18 +3,18 @@
     "name": "Cookie Tracker",
     "version": "1.0",
     "description": "Tracks and stores cookies to monitor where they are being sent.",
-    "permissions": ["cookies", "storage"],
+    "permissions": ["cookies", "storage", "notifications", "activeTab"],
     "host_permissions": ["<all_urls>"],
     "background": {
       "service_worker": "background.js",
       "type": "module" 
     },
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-      }
+      "default_icon": "test.png",
+      "default_title": "Test Cookie Alert"
     },
     "icons": {
+      "48": "test.png"
     }
   }
   

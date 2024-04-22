@@ -1,9 +1,36 @@
 <!DOCTYPE html>
-<html>
-<head><title>Cookie Tracker</title></head>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CNAME SEEKER</title>
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="util.js"></script>
+</head>
+
 <body>
-  <h1>Cookie Tracker</h1>
-  <p>Check the console for cookie changes.</p>
-  <!-- You can add more interactive elements here -->
+
+    <div class="header--wrapper">
+        <div class="header"> -=[ CNAME SEEKER ]=- </div>
+    </div>
+
+    <div class="btn--wrapper">
+        <button class="btn-enable"> ON/OFF </button>
+    </div>
+
+    <div class="btn--wrapper">
+        <textarea type="text" class="dump" id="dump" name="dump"></textarea>
+    </div>
+
+    <div class="btn--wrapper">
+        <button class="btn-copy"> COPY DUMP </button>
+    </div>
+
+    <div class="header--wrapper">
+        <div class="header" style="font-size: 1.2rem;width: 100%">======================</div>
+        <div class="header" style="font-size: 1.1rem;width: 100%" id="toggle" name="toggle"> Status: OFF </div>
+    </div>
+
 </body>
+
 </html>

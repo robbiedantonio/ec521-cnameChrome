@@ -11,10 +11,14 @@
     },
     "action": {
       "default_icon": "test.png",
-      "default_title": "Test Cookie Alert"
+      "default_title": "Test Cookie Alert",
+      "default_popup": "popup.html"
     },
     "icons": {
       "48": "test.png"
+    },
+    "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
     }
   }
   

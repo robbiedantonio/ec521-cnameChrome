@@ -1,0 +1,82 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: black;
+}
+
+.header--wrapper {
+    width: 300px;
+    text-align: center;
+}
+
+.header {
+    color: #3bf33b;
+    font-size: 1.5rem;
+    display: inline-block;
+}
+
+.btn--wrapper {
+    text-align: center;
+}
+
+.btn-enable {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background: #a40000;
+    border-bottom: 6px inset rgba(0, 0, 0, .5);
+    border-left: 6px inset rgba(0, 0, 0, .5);
+    border-right: 6px inset rgba(255, 255, 255, .5);
+    border-top: 6px inset rgba(255, 255, 255, .5);
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 30px;
+    padding: .1rem;
+    text-transform: uppercase;
+    width: 80%;
+    height: 44px;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.btn-enable:hover {
+    background: #be0000;
+}
+
+.btn-copy {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background: #0000be;
+    border-bottom: 6px inset rgba(0, 0, 0, .5);
+    border-left: 6px inset rgba(0, 0, 0, .5);
+    border-right: 6px inset rgba(255, 255, 255, .5);
+    border-top: 6px inset rgba(255, 255, 255, .5);
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 30px;
+    padding: .1rem;
+    text-transform: uppercase;
+    width: 80%;
+    height: 44px;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.btn-copy:hover {
+    background: #0000ff;
+}
+
+.dump {
+    min-width: 78%;
+    height: 200px;
+    background-color: #4c4b4b;
+    font-size: 10px;
+    color: white;
+    border: none;
+    outline: none;
+    resize: none;
+}

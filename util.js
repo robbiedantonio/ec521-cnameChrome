@@ -1,11 +1,20 @@
-// utils.js
-
 document.addEventListener("DOMContentLoaded", async function() {
     const onOffButton = document.querySelector(".btn-enable");
     const statusElement = document.querySelector("#toggle");
 
     const copyButton = document.querySelector(".btn-copy");
     const dumpTextarea = document.querySelector("#dump");
+
+    async function loadText() {
+        try {
+            const result = await chrome.storage.local.get("malicious_domain");
+            if (result.savedText) {
+                dumpTextarea.value = result.savedText;
+            }
+        } catch (error) {
+            console.error("Error loading text from storage:", error);
+        }
+    }
 
     const loadStatus = async() => {
         try {
@@ -62,4 +71,5 @@ document.addEventListener("DOMContentLoaded", async function() {
     }
 
     await loadStatus();
+    await loadText();
 });

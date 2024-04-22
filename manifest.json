@@ -6,19 +6,18 @@
     "permissions": ["cookies", "storage", "notifications", "activeTab"],
     "host_permissions": ["<all_urls>"],
     "background": {
-      "service_worker": "background.js",
-      "type": "module" 
+        "service_worker": "background.js",
+        "type": "module"
     },
     "action": {
-      "default_icon": "test.png",
-      "default_title": "Test Cookie Alert",
-      "default_popup": "popup.html"
+        "default_icon": "test.png",
+        "default_title": "CNAME Seeker",
+        "default_popup": "popup.html"
     },
     "icons": {
-      "48": "test.png"
+        "48": "test.png"
     },
     "content_security_policy": {
-      "extension_pages": "script-src 'self'; object-src 'self'"
+        "extension_pages": "script-src 'self'; object-src 'self'"
     }
-  }
-  
+}

@@ -18,7 +18,7 @@ body {
     text-align: center;
 }
 
-.btn-enable {
+.btn-clear {
     font-family: "Lucida Console", "Courier New", monospace;
     background: #a40000;
     border-bottom: 6px inset rgba(0, 0, 0, .5);
@@ -32,15 +32,14 @@ body {
     font-size: 30px;
     padding: .1rem;
     text-transform: uppercase;
-    width: 80%;
+    width: 86%;
     height: 44px;
     text-align: center;
     margin-bottom: 1rem;
     font-size: 1.2rem;
-    margin-top: 1rem;
 }
 
-.btn-enable:hover {
+.btn-clear:hover {
     background: #be0000;
 }
 
@@ -58,7 +57,7 @@ body {
     font-size: 30px;
     padding: .1rem;
     text-transform: uppercase;
-    width: 80%;
+    width: 86%;
     height: 44px;
     text-align: center;
     margin-bottom: 1rem;
@@ -71,12 +70,13 @@ body {
 }
 
 .dump {
-    min-width: 78%;
+    min-width: 84%;
     height: 200px;
     background-color: #4c4b4b;
     font-size: 10px;
     color: white;
-    border: none;
     outline: none;
     resize: none;
+    margin-top: 1.2rem;
+    text-align: center;
 }

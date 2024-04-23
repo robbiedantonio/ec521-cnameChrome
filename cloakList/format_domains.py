@@ -1,10 +1,15 @@
 import csv, json
 
 def parseCsv():
+    subdomains = []
+    sites = []
     with open('cname_cloaking_site.csv', 'r') as f:
         c = csv.DictReader(f)
         subdomains = [l['subdomain'] for l in c]
-        return subdomains
+    with open('cname_cloaking_site.csv', 'r') as f:
+        c = csv.DictReader(f)
+        sites = [l['site'] for l in c]
+    return subdomains, sites
     
 def reformat(subdomain_list):
     with open('reformatted.txt', 'w') as f:
@@ -31,6 +36,14 @@ def toJSON():
         json.dump(dictionary, f)
 
 if __name__ == '__main__':
-    subdomain_list = parseCsv()
-    reformat(subdomain_list)
-    toJSON()
+    subdomain_list, site_list = parseCsv()
+    # reformat(subdomain_list)
+    # toJSON()
+    print(site_list)
+
+    dictionary = {}
+
+    for key, value in zip(site_list, subdomain_list):
+        dictionary[key] = value
+    with open('sites.json', 'w') as f: 
+        json.dump(dictionary, f)

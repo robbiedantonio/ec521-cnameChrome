@@ -122,7 +122,7 @@ function processCookie(cookie) {
             alertUser(message);
 
             // for textarea loading
-            addMaliciousDomain((domain + "\n"));
+            addMaliciousDomain((domain + ":" + checker.site_list[domain]));
         }
     }
 }

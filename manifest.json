@@ -10,12 +10,12 @@
         "type": "module"
     },
     "action": {
-        "default_icon": "test.png",
+        "default_icon": "icon.png",
         "default_title": "CNAME Seeker",
         "default_popup": "popup.html"
     },
     "icons": {
-        "48": "test.png"
+        "48": "icon.png"
     },
     "content_security_policy": {
         "extension_pages": "script-src 'self'; object-src 'self'"

@@ -121,6 +121,12 @@ function processCookie(cookie) {
             console.log(message);
             alertUser(message);
 
+            if(checker.checkSessionIDLeak(cookie)) {
+                const message = `A session cookie from ${domain} has leaked session ID`;
+                console.log(message);
+                alertUser(message);
+            }
+
             // for textarea loading
             addMaliciousDomain((domain + ":" + checker.site_list[domain]));
         }

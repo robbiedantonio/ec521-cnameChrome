@@ -30,6 +30,7 @@ class checkSD {
         const cookieFields = Object.keys(cookie);
         return sessionIDNames.some(name => cookieFields.includes(name));
     }
+}
 
 export default checkSD;
 //module.exports = checkSD

@@ -16,7 +16,7 @@ if __name__ == "__main__":
     urls= []
     count = 0
     for row in reader: 
-        if count != 0: 
+        if count > 498: 
             urls.append("http://" + row[2])
         count += 1
 
@@ -32,13 +32,15 @@ if __name__ == "__main__":
             print(i, urls[i])
             driver.get(urls[i]) 
         
-            time.sleep(5)  # make sure everything is loaded
+            time.sleep(1)  # make sure everything is loaded
             link = driver.find_elements(By.TAG_NAME, 'a') 
             links = []
-
+            
             for i in link: 
                 if(i.get_attribute('href') != None):
+                    # print(i.get_attribute('href'))
                     links.append(i.get_attribute('href'))
+            print(len(links))
             with open("link.json", "w") as linkfile:
                 json.dump(links, linkfile)
 
@@ -46,16 +48,19 @@ if __name__ == "__main__":
             found = False
             ind = 0
 
-            with open("dm.txt", "a") as df:
+            with open("dm_names2.txt", "a") as df:
                 for i in links: 
                     driver.get(i)
                     cookies = driver.get_cookies()
                     for cookie in cookies:
-                        if (cookie['httpOnly'] == False) and (cookie['secure'] == False):
+                        if (cookie['httpOnly'] == False) or (cookie['secure'] == False):
                             # print(cookie['name'], cookie['domain'])
                             for i in range(len(recent_domains)): 
                                 if (recent_domains[i] == cookie['domain']):
                                     found = True
+                                    break
+                                if (recent_domains[i] == 'None'):
+                                    break
                             if (found == False):
                                 recent_domains[ind] = cookie['domain']
                                 ind = (ind + 1)%500

@@ -82,7 +82,7 @@ function getStoredCookieInfo() {
 function alertUser(message) {
     chrome.notifications.create('', {
         type: 'basic',
-        iconUrl: 'test.png',
+        iconUrl: 'icon.png',
         title: 'Cookie Alert',
         message: message,
         priority: 2
